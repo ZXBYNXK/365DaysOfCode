@@ -1,0 +1,92 @@
+<html> 
+<head> 
+	<title>Blank Document</title> 	<!-- Latest compiled and minified CSS --> 	
+	
+	
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+ 
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/css/jquery-ui.min.css"> 
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css"> 
+ <!-- Optional theme --> <!-- <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css"> --> <!-- Current doc CSS --> 	<link rel="stylesheet" href="index.css"> 
+ </head> 
+ <body style="background-color: silver;"> 	
+ <header>
+ <div class="container col-xs-12"> 
+ <div class="row">
+  <div class="col-xs-12 col-md-12 col-lg-12 col-xl-12" style="background-color: navy;"> 
+  
+  <div style="border-style: solid;
+  border-color: green; border: 15px; background-color: navy; color: orange;">
+  
+  <h3 style="background-color: white; font-family: sans-serif; font-size: 35px; text-align: center;" class="text-success"><kbd>Day#:~1 Name:~Darius Rain  Date:~10-27-2019</kbd></h3>
+  
+  
+  </div>
+  </div> 
+  </div> 
+  	</div> 
+  	</header>
+  	<div class="jumbotron" style="background-image: url('https://cdn.aarp.net/content/dam/aarp/work/career-change/2018/03/1140-fd-is-coding-boot-camp-for-you.imgcache.rev4c79daf5768ae52a73a46e372b5bc2b4.jpg'); background-repeat: no-repeat; opacity: 0.86; position: relative; top: 65px;">
+  		<h3 class="text-success" style="font-size: 50px; opacity: 0.86; text-align: center; background-color: white; position:relative; bottom: 20px;">Day#:~1 365 Days Of Code: Madlib</h3>
+  		
+  		<br>
+  	<div class="container" style="font-family: serif; font-size: 20px; background-color: white; opacity: 0.89; position:relative; bottom: 30px;" >
+  <div class="row">
+  <div class="col-xs-12">
+  <ul>
+  	  <li>Allow user to be prompted for each question.</li>
+  	  <li>Print the output text to the screen.</li>
+  	  <li>Try to make a default if input is entered.</li>
+  	</ul>
+  	
+  	</div>
+  	</div>
+  	</div>
+  	</div>
+  	
+  <h2 style="font-style: bold;  font-size: 30px; right: 1em; bottom: 0.5; border-radius: 2px; background-color: silver; opacity: 0.86;">Made By: <a href="https://github.com/DariusRain">Darius Rain</a></h2> 
+  	<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script> 
+  	<script src="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+  	 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> <!-- Current doc JS --> <script src="index.js"></script> 
+  	 
+  	 
+  	 
+  	 <img style="position: relative;" src="http://wfuogb.com/wp-content/uploads/2018/09/madlibs.jpeg" width="400px">
+  	</img>
+  	
+  	 <button style="background-color: red; width: 10em; height: 10em; position: relative; left: 10em !important;" class="btn-lg" onclick='madLib()'>Start Madlib</button>
+  	 
+  	
+  	
+  	 
+  	 
+  	 
+  	 
+  	 
+  	 
+  	 
+  	 
+  	 <script>
+  	 
+
+
+const madLib = () => {
+let name = prompt("Name main char");
+let bar = prompt("Bar name");
+let man = prompt("Another name");
+let nasty = prompt("Something nasty");
+let food = prompt("Name a food");
+let car = prompt("What type of car")
+let beer = prompt("Name a beer")
+let msg = document.write(`<div class= "container" style="background-color: white; color: red; border-radius: 12px;"><div class="row"><div class="col-xs-12"><p><b>${name} decides to go to ${bar}. At ${bar} he orders some ${food} and a ${beer}.Then ${man} comes over and  throws ${nasty} in ${name}'s face. ${name} gets up and throws the glass of ${beer} at ${man}. The owner of ${bar} intervenes and ${man} rubs ${nasty} all over him. ${name} tackles ${man} to the ground, then the owner comes flying through the wall in his ${car} and knocks himself out and injured a few people including ${name}. <b><\p></div></div></div>`)
+
+
+
+}
+    
+	
+  	 </script>
+  	 <div id='answer'></div>
+  	 
+  	 </body> 
+  	 </html>
