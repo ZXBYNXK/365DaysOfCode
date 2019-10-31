@@ -1,0 +1,140 @@
+<html> 
+<head> 
+	<title>Day4</title> 	<!-- Latest compiled and minified CSS --> 	
+	
+	
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+ 
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/css/jquery-ui.min.css"> 
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css"> 
+ <!-- Optional theme --> <!-- <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css"> --> <!-- Current doc CSS --> 	<link rel="stylesheet" href="index.css"> 
+ </head> 
+ <body style="background-color: silver;"> 	
+ <header>
+ <div class="container col-xs-12"> 
+ <div class="row">
+  <div class="col-xs-12 col-md-12 col-lg-12 col-xl-12" style="background-color: navy;"> 
+  
+  <div style="border-style: solid;
+  border-color: green; border: 15px; background-color: navy; color: orange;">
+  
+  <h3 style="background-color: white; font-family: sans-serif; font-size: 35px; text-align: center;" class="text-success"><kbd>Day#:~4 Name:~Darius Rain  Date:~10-30-2019</kbd></h3>
+  
+  
+  </div>
+  </div> 
+  </div> 
+  	</div> 
+  	</header>
+  	
+  	<div class="jumbotron" style="background-image: url('https://cdn.aarp.net/content/dam/aarp/work/career-change/2018/03/1140-fd-is-coding-boot-camp-for-you.imgcache.rev4c79daf5768ae52a73a46e372b5bc2b4.jpg'); background-repeat: no-repeat; opacity: 0.86; position: relative; top: 65px;">
+  		<h3 class="text-success" style="font-size: 50px; opacity: 0.86; text-align: center; background-color: white; position:relative; bottom: 20px;">Day#:~4 365 Days Of Code: ChangeThePage</h3>
+  		
+  		<br>
+  	<div class="container" style="font-family: serif; font-size: 20px; background-color: white; opacity: 0.89; position:relative; bottom: 30px;" >
+  <div class="row">
+  <div class="col-xs-12">
+  <ul>
+  	  <li>Allow user to be prompted for each question to change style and text.</li>
+  	  <li>Print the output text to the screen after input of desired change.</li>
+  	
+  	</ul>
+  	
+  	</div>
+  	</div>
+  	</div>
+  	</div>
+  	
+  <h2 style="font-style: bold;  font-size: 30px; right: 1em; bottom: 0.5; border-radius: 2px; background-color: silver; opacity: 0.86;">Made By: <a href="https://github.com/DariusRain">Darius Rain</a></h2> 
+  	<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script> 
+  	<script src="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+  	 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> <!-- Current doc JS --> <script src="index.js"></script> 
+  	 
+  	 
+  	 
+  	
+  	 
+  	 
+
+<h1 class="h1" id="h1">H1 Tag</h1>
+<h3 class="h3" id="h3">H3 Tag</h3>
+<br>
+<br>
+<pre class="pre" id="pre">Pre Tag</pre>
+<br>
+<p id="p">Paragraph Tag</p>
+<button id="1">Change Button Color.</button>
+<button id="2">Change background.</button>
+<button id="3">Change Tag Color.</button>
+<button id="4">Change Tag Text.</button>
+<button id="5">Create a pop up alert message.</button>
+
+
+
+
+
+
+
+
+
+
+<script>
+var changeTagText = function() {
+	var tag = prompt(`What is the tag name you wish to change?`);
+	var text = prompt(`What is the text you would like to add?`); 
+	document.getElementById(tag).innerText = text; 
+}
+var changeTagColor= function(){	
+let tag = prompt(`What is the tag name you wish to change?`)
+let color = prompt(`What is the color you desire?`)
+	let element = 
+	document.getElementById(tag)
+	element.style.color = color;
+
+}
+
+var changeBodyColor = function() {
+color = prompt(`What Color?`)
+var element = document.body;
+element.style.backgroundColor = color;
+}   
+
+var changeButtonColor = function() {
+
+let color = prompt(`Color?`);
+let buttons = prompt(`Button number`)
+let element = document.getElementById(buttons)
+element.style.backgroundColor = color;
+
+
+}    
+var createAnAlertMessage = function () {
+let text = prompt('What would you like to alert?')
+alert(text);
+
+
+}
+    //
+//changeBodyColor(`green`);
+
+document.getElementById('1').addEventListener('click', changeButtonColor);
+document.getElementById('2').addEventListener('click', changeBodyColor);
+document.getElementById('3').addEventListener('click', changeTagColor);
+document.getElementById(`4`).addEventListener('click', changeTagText);
+document.getElementById(`5`).addEventListener('click', createAnAlertMessage);
+//buttonClick();
+</script>
+</body
+  	 
+  	 
+  	 
+  	 
+  	 
+  	 
+  	 
+  	 <script>
+  	 
+
+
+  
+  	 </html>
