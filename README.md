@@ -8,3 +8,9 @@ Day 2: I will be creating a user interface with node just.
 
 Day 3: Oct 29, 2019.
 Day 3: I will be creating a login and register system with node JavaScript
+
+Day 4: Oct 30, 2019.
+Day 4: I created a page that can be changed by the user, by adding event listeners then functions that change the CSS stylesheet.
+
+Day 5: Oct 31, 2019
+Day 5: I created a program that uses an object and a function then using both of the two to assing new data to the object.
