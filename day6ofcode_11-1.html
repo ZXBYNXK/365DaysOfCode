@@ -1,0 +1,177 @@
+<html> 
+<head> 
+    <title>Day4</title>     <!-- Latest compiled and minified CSS -->     
+    
+    
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+ 
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/css/jquery-ui.min.css"> 
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css"> 
+ <!-- Optional theme --> <!-- <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css"> --> <!-- Current doc CSS -->     <link rel="stylesheet" href="index.css"> 
+ </head> 
+ <body style="background-color: silver;">     
+ <header>
+ <div class="container col-xs-12"> 
+ <div class="row">
+  <div class="col-xs-12 col-md-12 col-lg-12 col-xl-12" style="background-color: navy;"> 
+  
+  <div style="border-style: solid;
+  border-color: green; border: 15px; background-color: navy; color: orange;">
+  
+  <h3 style="background-color: white; font-family: sans-serif; font-size: 35px; text-align: center;" class="text-success"><kbd>Day#:~4 Name:~Darius Rain  Date:~10-30-2019</kbd></h3>
+  
+  
+  </div>
+  </div> 
+  </div> 
+      </div> 
+      </header>
+      
+      <div class="jumbotron" style="background-image: url('https://cdn.aarp.net/content/dam/aarp/work/career-change/2018/03/1140-fd-is-coding-boot-camp-for-you.imgcache.rev4c79daf5768ae52a73a46e372b5bc2b4.jpg'); background-repeat: no-repeat; opacity: 0.86; position: relative; top: 65px;">
+          <h3 class="text-success" style="font-size: 50px; opacity: 0.86; text-align: center; background-color: white; position:relative; bottom: 20px;">Day#:~6 365 Days Of Code: Use objects and create methods that apply to tbe object.</h3>
+          
+          <br>
+      <div class="container" style="font-family: serif; font-size: 20px; background-color: white; opacity: 0.89; position:relative; bottom: 30px;" >
+  <div class="row">
+  <div class="col-xs-12">
+  <ul>
+        <li>Allow user to be prompted for each possiblility 1 - however many .
+        And store all the data recieved but dont output it to the dom but store it in an array over time.</li>
+        <li>Print the output in the console so the data is stored</li>
+      
+      </ul>
+      
+      </div>
+      </div>
+      </div>
+      </div>
+      
+  <h2 style="font-style: bold;  font-size: 30px; right: 1em; bottom: 0.5; border-radius: 2px; background-color: silver; opacity: 0.86;">Made By: <a href="https://github.com/DariusRain">Darius Rain</a></h2> 
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script> 
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+       <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> <!-- Current doc JS --> <script src="index.js"></script> 
+       
+       
+       
+      
+       
+       
+
+
+
+
+
+
+
+<button id="1">Start Program</button>
+
+
+
+
+<script>
+
+       function myGlobe() {
+var localObject = {
+    
+    data: {
+        questions: [],
+        answers: [],
+        people: [],
+       
+        },
+        
+    
+        
+        createQuestion: function(){
+        let verifyName = prompt('Before submitting a question please enter your name');
+        let verifyPin = prompt(`Got your name:${verifyName} and now your pin please...`)
+        for(let i = 0; i < localObject.data.people.length; i++){
+            if(localObject.data.people[i].includes(verifyName)){ if(localObject.data.people[i].includes(verifyPin)) {
+                let question = prompt("Please submit your question here.")
+                 let temp = [`Name of submitter: ${verifyName} Question: ${question}`];
+                
+                  localObject.data.questions = localObject.data.questions.concat(temp)
+                  menu()
+               
+                }else {
+                console.log("Error!")
+                menu();
+            }
+        }
+          }  
+        },
+    
+      createPerson: function() {
+            let x = prompt("Person Name?")
+            let y = prompt("Create a 4 digit personal Id number");
+            let y2 = prompt(`You selected '${y}' if that is what you want please re-enter it.`) 
+    if(parseInt(y) > 999 && parseInt(y) < 10000){
+    if(y == y2) {
+        
+           let temp = [`${x} ${y}`]
+           localObject.data.people = localObject.data.people.concat(temp);
+            
+                console.log(`${x} has been added!`)
+                menu();
+            }else {
+                console.log(`Name: ${x} is not valid and or Pins: ${y} and ${y2} dont match!`)
+          menu()
+            }
+            }else {
+                console.log(`Your numbers ${y} ${y2} are not 4 digits!`)
+                menu();
+            }
+        },
+    listAllPeople: function() {
+        console.log(`Live Preview of localObject.data.people`)
+      console.log(`People: ${localObject.data.people}`)
+        console.log(`# of people: ${localObject.data.people.length}`)
+        menu()
+        },
+    listAllQuestions: function(){
+        console.log('Live preview of localObject.data.questions')
+        console.log(localObject.data.questions)
+   console.log(`# of questions: ${localObject.data.questions.length}`)
+    }
+
+   }
+    
+    var menu = function() {
+    alert("Options [1]: Create An Account [2]: Submit a question [3]: List all people [4]: List all Questions ")
+  
+   switch(parseInt(prompt("Option 1 2 3 or 4? nothing to exit"))) {
+      case 1: 
+       localObject.createPerson()
+       break;
+    case 2: 
+    localObject.createQuestion()
+    break;
+    case 3: 
+    localObject.listAllPeople();
+    break;
+    case 4:
+    localObject.listAllQuestions()
+    break;
+    default:
+      break;    
+        
+        
+    }
+  
+}
+menu();
+}
+//myGlobe()
+
+       
+       
+      document.getElementById('1').addEventListener('click', myGlobe)
+       
+       
+       
+       </script>
+       
+
+</body>
+  
+       </html>
