@@ -17,3 +17,9 @@ Day 5: I created a program that uses an object and a function then using both of
 
 Day 6: Nov 1, 2019.
 Day 6: Try making a program that is all confined inside a function rather than the global scope. And apply the code I write inside of the function to an html document
+
+Day 7: Nov 2, 2019.
+Day 7: Make a modal.
+
+Day 8: Nov 3, 2019.
+Day 8:(Account Register and Login System) Add an object to an array based off of a new user being added. Pt. 1 Day 1.
