@@ -1,0 +1,122 @@
+<html> 
+<head> 
+    <title>Day7</title>     <!-- Latest compiled and minified CSS -->     
+    
+    
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+ 
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/css/jquery-ui.min.css"> 
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css"> 
+ <!-- Optional theme --> <!-- <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css"> --> <!-- Current doc CSS -->     <link rel="stylesheet" href="index.css"> 
+ <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script> 
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+       <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> <!-- Current doc JS --> <script src="index.js"></script>
+ </head> 
+ <body style="background-color: silver;">     
+ <header>
+ <div class="container col-xs-12"> 
+ <div class="row">
+  <div class="col-xs-12 col-md-12 col-lg-12 col-xl-12" style="background-color: navy;"> 
+  
+  <div style="border-style: solid;
+  border-color: green; border: 15px; background-color: navy; color: orange;">
+  
+  <h3 style="background-color: white; font-family: sans-serif; font-size: 35px; text-align: center;" class="text-success"><kbd>Day#:~7 Name:~Darius Rain  Date:~11-2-2019</kbd></h3>
+  
+  
+  </div>
+  </div> 
+  </div> 
+      </div> 
+      </header>
+      
+      <div class="jumbotron" style="background-image: url('https://cdn.aarp.net/content/dam/aarp/work/career-change/2018/03/1140-fd-is-coding-boot-camp-for-you.imgcache.rev4c79daf5768ae52a73a46e372b5bc2b4.jpg'); background-repeat: no-repeat; opacity: 0.86; position: relative; top: 65px;">
+          <h3 class="text-success" style="font-size: 50px; opacity: 0.86; text-align: center; background-color: white; position:relative; bottom: 20px;">Day#:~6 365 Days Of Code: Use objects and create methods that apply to tbe object.</h3>
+          
+          <br>
+      <div class="container" style="font-family: serif; font-size: 20px; background-color: white; opacity: 0.89; position:relative; bottom: 30px;" >
+  <div class="row">
+  <div class="col-xs-12">
+  <ul>
+        <li>Use a modal with bootstrap and use it to make a form after button click.</li>
+      
+      </ul>
+      
+      </div>
+      </div>
+      </div>
+      </div>
+      
+  <h2 style="font-style: bold;  font-size: 30px; right: 1em; bottom: 0.5; border-radius: 2px; background-color: silver; opacity: 0.86;">Made By: <a href="https://github.com/DariusRain">Darius Rain</a></h2> 
+       
+       
+
+ 
+
+
+<button id="register">Register</button>
+
+
+      
+<script>
+var arrOfObjects = [];
+
+ var addObj = function() {
+
+this.name = prompt("What is your Name");
+this.age = prompt("What is your age");
+this.password = prompt("Please Select a password");
+this.password1 = prompt(`Please re-enter.`);
+
+this.purchases = [];
+if (password == password2){
+
+verifiedOrNot = confirm(`Almost set just need to verify if this is what you wanted "${name}, ${age}, ${password}" ?`)
+if(verifiedOrNot == true ){
+let tempObj = {
+ name: name,
+ age: age,
+ password: password,
+ purchases: purchases
+
+}
+
+arrayOfObjects = arrayOfObjects.push(tempObj)
+document.write(arrayOfObjects);
+}else{
+let navigate = confirm(`Sorry ${name} try again?`)
+if(navigate == true){
+addObj();
+}else {
+frontPage();
+}
+
+}
+}
+ 
+else {
+ var error2 = confirm(`Sorry ${name} but ${password1} and ${password2} arent a match try again?`)
+ if (error2 = true) {
+ addObj();
+ }else {
+ frontPage();
+ }
+
+}
+
+}
+
+document.getElementById('register').addEventListener('click', addObj)
+
+
+
+
+
+</script>
+
+       
+       
+       
+       
+       </body>
+       </html>
