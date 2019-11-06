@@ -23,3 +23,9 @@ Day 7: Make a modal.
 
 Day 8: Nov 3, 2019.
 Day 8:(Account Register and Login System) Add an object to an array based off of a new user being added. Pt. 1 Day 1.
+
+Day 9: Nov 4, 2019.
+Day 9: Created a program that takes input and calculates s = d ÷ t (speed = distance ÷ time);
+
+Day 10: Nov 5, 2019.
+Day 10: Created a program that takes input and factorializes it, also showing the results.  
