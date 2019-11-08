@@ -29,3 +29,9 @@ Day 9: Created a program that takes input and calculates s = d ÷ t (speed = dis
 
 Day 10: Nov 5, 2019.
 Day 10: Created a program that takes input and factorializes it, also showing the results.  
+
+Day 11: Nov 6, 2019.
+Day 11: Create a readline interface that predicts what number(1-10) your thinking of.
+
+Day 12: Nov 7, 2019.
+Day 12: Created a program that uses an object constrouctor and concatenates the object to an empty array therefore making an array of objects.
