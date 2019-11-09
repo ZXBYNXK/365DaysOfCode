@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>Day 13 of code</title>
+
+  <style>
+
+
+  body {
+
+background-color: orange;
+
+  }
+  .deck
+{
+	
+	margin: 20px auto;
+	background: silver;
+	border: dashed 10px black;
+	padding: 10px;
+
+	text-align: center;
+	color: black;
+}
+
+.card
+{
+	padding: 10px;
+	border: inset 5px #808080;
+	background-color: white;
+	display: inline-block;
+	border-radius: 10px;
+	font-size: 14pt;
+	text-align: center;
+	color:black;
+	margin: 3px;
+}
+
+.btn
+{
+	background: silver;
+	padding: 10px 20px;
+	
+	margin: 10px;
+	display:inline-block;
+}
+
+.card .value{
+	font-size:15pt;
+	font-family: sans-serif;
+}
+
+.card .suit
+{
+	background-image: url('card.png') !important;
+	height: 100px;
+	width: 90px;
+}
+
+.card .diamonds
+{
+	background-position-y: 100px;
+}
+
+.card .hearts
+{
+	background-position-x: 90px;
+}
+
+.card .clubs
+{
+	background-position-x:90px;
+	background-position-y:100px;
+}
+  </style>
+</head>
+
+
+<body>
+
+  <div class="deck">
+        <h1 style="color: white;">Click <a href="javascript:void(0)" class="btn" onclick="shuffle()">'shuffle'</a> to shuffle cards</h1>
+<span style="color: red;">Made By:  <a href="www.github.com/DariusRain">Darius Rain</a>  --->   Day:  13 of 365   --->   Date: 11/08/19</span>
+<br>
+        <div id="deck"></div>
+    </div>
+<script>
+var cards = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"];
+var suits = ["diamonds", "hearts", "spades", "clubs"];
+var deck = new Array();
+
+function getDeck()
+{
+	var deck = new Array();
+
+	for(var i = 0; i < suits.length; i++)
+	{
+		for(var x = 0; x < cards.length; x++)
+		{
+			var card = {Value: cards[x], Suit: suits[i]};
+			deck.push(card);
+		}
+	}
+
+	return deck;
+}
+
+function shuffle()
+{
+	// for 1000 turns
+	// switch the values of two random cards
+	for (var i = 0; i < 1000; i++)
+	{
+		var location1 = Math.floor((Math.random() * deck.length));
+		var location2 = Math.floor((Math.random() * deck.length));
+		var tmp = deck[location1];
+
+		deck[location1] = deck[location2];
+		deck[location2] = tmp;
+	}
+
+	renderDeck();
+}
+
+function renderDeck()
+{
+	document.getElementById('deck').innerHTML = '';
+	for(var i = 0; i < deck.length; i++)
+	{
+		var card = document.createElement("div");
+		var value = document.createElement("div");
+		var suit = document.createElement("div");
+		card.className = "card";
+		value.className = "value";
+		suit.className = "suit " + deck[i].Suit;
+
+		value.innerHTML = deck[i].Value;
+		card.appendChild(value);
+		card.appendChild(suit);
+
+		document.getElementById("deck").appendChild(card);
+	}
+}
+
+function load()
+{
+	deck = getDeck();
+	shuffle();
+	renderDeck();
+}
+
+window.onload = load;
+</script>
+
+</body>
+<footer>
+<h4>365 Days Of Code Challenge</h4>
+</footer>
+</html>
