@@ -35,3 +35,6 @@ Day 11: Create a readline interface that predicts what number(1-10) your thinkin
 
 Day 12: Nov 7, 2019.
 Day 12: Created a program that uses an object constrouctor and concatenates the object to an empty array therefore making an array of objects.
+
+Day 13: Nov 8, 2019.
+Day 13: Made a JavaScript program that makes a new array every time the deck is shuffled. Then be able to shuffle the deck and output when a click event happens on the specified place in the DOM.
