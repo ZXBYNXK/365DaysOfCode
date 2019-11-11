@@ -38,3 +38,9 @@ Day 12: Created a program that uses an object constrouctor and concatenates the 
 
 Day 13: Nov 8, 2019.
 Day 13: Made a JavaScript program that makes a new array every time the deck is shuffled. Then be able to shuffle the deck and output when a click event happens on the specified place in the DOM.
+
+Day 14: Nov 9, 2019.
+Day 14: I created a menu with options to add a store name location then owner. When that takes place a function creates an object (based on input) and concatenates it to an array.
+
+Day 15: Nov 10, 2019.
+Day 15: Created a program that allows infinite amounts of objects (based on user register) representing accounts that can be either added or deleted from array. Only the Admin menu can delete accounts. Created some menus with switch statements and function calls, to loop around without really using a loop.
