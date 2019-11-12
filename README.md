@@ -44,3 +44,6 @@ Day 14: I created a menu with options to add a store name location then owner. W
 
 Day 15: Nov 10, 2019.
 Day 15: Created a program that allows infinite amounts of objects (based on user register) representing accounts that can be either added or deleted from array. Only the Admin menu can delete accounts. Created some menus with switch statements and function calls, to loop around without really using a loop.
+
+Day 16: Nov 11, 2019.
+Day 16: Created a basic calculator.
