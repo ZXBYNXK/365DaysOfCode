@@ -315,7 +315,7 @@ var runProgram = function() {
             setRoomAsClean: function(roomId) {
                 for (let i = 0; i < hotel.allRooms.length; i++) {
 
-                    if (hotel.allRooms[i].roomId == roomId && hotel.allRooms.clean === false) {
+                    if (hotel.allRooms[i].roomId == roomId && hotel.allRooms[i].clean === false) {
                         hotel.allRooms[i].clean = true;
 
                     }
