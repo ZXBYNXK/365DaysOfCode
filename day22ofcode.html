@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Day 22</title>
+        <style>
+       html{height: 100%;
+       
+       width:100%}
+
+       div{
+       height:100%;
+       width: 100%;
+       margin: 5px;
+       }
+        
+        
+        
+        body{
+            font-family: monospace;
+            background-color: black;
+        }
+            .headerDiv{
+                background-color: silver;
+                color: dodgerblue;
+                text-align: center;
+            }
+        .flex-container {
+padding: 0;
+margin: 1.5px;
+list-style: none;
+
+display: -webkit-box;
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+
+-webkit-flex-flow: row wrap;
+justify-content: space-around;
+background-color: dodgerblue;
+}
+
+.flex-item {
+background: silver;
+width: 90%;
+height: 100%;
+color: black;
+font-weight: bold;
+text-wrap: wrap;
+y-overflow: scroll;
+margin: 1.5px;
+border-style: inset;
+border-radius: 15%;
+
+}
+.itemBody{
+    text-align:center;
+}
+.articleHeader {
+    background-color: white;
+    width: 90%;
+    border-style: outset;
+    text-align: center;
+    border-color: black;
+    color: red;
+    height: 50%;
+    border-radius: 15%;
+    font-style: italic;
+    }   
+    .itemHeader {
+        background-color: dodgerblue;
+        font-style: italic;
+        text-align: center;
+        border-style: outset;
+        height: 50%;
+        width: 90%;
+        border-radius: 100%;
+        align-content: center;
+         margin-left: 5%;
+     }  
+     footer{
+         text-align: center;
+         font-size: 12px;
+         background-color: red;
+         
+         width: 90%;
+         margin-left: 5%;
+         border-bottom-left-radius: 40%;
+         border-bottom-right-radius: 40%;
+     }
+     </style>
+    </head>
+    <body>
+    <div>
+        <header>
+        <div class="headerDiv flex-container">
+              <h2 class="articleHeader"><u>Day 22 of 365</u></h2>
+            <div class="flex-item">
+            <br>
+          
+           <span><u>Task: Create a basic website format.</u></span>
+            <ol>
+                <li>Include a header.</li>
+                <li>Inlclude an Article and Section.</li>
+                <li>Include Flex box</li>
+                <li>Include A footer</li>
+                  </ol>
+             </div>
+            </div>
+        </header>
+       
+        <article class="flex-container">
+    <header class="articleHeader"><h3><u>✓Article </u></h3></header>
+           <section class="flex-item">
+           
+                <header class="itemHeader"><h3>✓Section 1</h3></header>
+                <div class="itemBody">
+                <br>
+                <span>~~~~~~~~~~~~~~~~~~~~~
+                
+               ~~~~~~~~~~~~~~~~~~~~~
+               
+               ~~~~~~~~~~~~~~~~~~~~~
+                
+                ~~~~~~~~~~~~~~~~~~~~~</span>
+                 </div>
+                 <br>
+                 <footer>✓Footer of s1</footer>
+            </section>
+            <section class="flex-item">
+                <header class="itemHeader"><h3>✓Section 2</h3></header>
+            
+                <div class="itemBody">
+                <br>
+                <span>~~~~~~~~~~~~~~~~~~~~~
+                
+               ~~~~~~~~~~~~~~~~~~~~~
+               
+               ~~~~~~~~~~~~~~~~~~~~~
+                
+                ~~~~~~~~~~~~~~~~~~~~~</span>
+                 </div>
+                 <br>
+      <footer>✓Footer of s2</footer>
+                </section>
+            <section class="flex-item">
+                <header class="itemHeader"><h3>✓Section 3</h3></header>
+               <div class="itemBody">
+               <br>
+                <span>~~~~~~~~~~~~~~~~~~~~~
+                
+               ~~~~~~~~~~~~~~~~~~~~~
+               
+               ~~~~~~~~~~~~~~~~~~~~~
+                
+                ~~~~~~~~~~~~~~~~~~~~~</span>
+                 </div>
+                 <br>
+       <footer>✓Footer of s3</footer>
+            </section>
+        </article>
+        </div>
+    </body>
+       <footer>
+                    <kbd><a href="www.github.com/DariusRain">✓Darius Rain</a> Day 22. Date:11-17-19</kbd>
+                </footer>
+    
+</html>
