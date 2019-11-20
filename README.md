@@ -47,3 +47,24 @@ Day 15: Created a program that allows infinite amounts of objects (based on user
 
 Day 16: Nov 11, 2019.
 Day 16: Created a basic calculator.
+
+Day 17: Nov 12, 2019.
+Day 17: Create methods to change the object property values.
+
+Day 18: Nov 13, 2019.
+Day 18: Make a flash card learning program that uses 'readline' and a object of properties that have values of functions (thus making them methods). Using both of these techniques create a interface that asks questions relcieves answers and give answers back based on the given answer to a specific question.
+
+Day 19: Nov 14, 2019.
+Day 19: Created a little search engine type of program that searches any document containing a specific keyword. And each document is an object that contains multiple keys and values.
+
+Day 20: Nov 15, 2019.
+Day 20: Simulated a hotel enviroment.
+
+Day 21: Nov 16, 2019.
+Day 21: Created a program that reverses input text. Used readline and an algorithm that reverses a string.
+
+Day 22: Nov 17, 2019.
+Day 22: Created an html doc.
+
+Day 23: Nov 18, 2019.
+Day 23: Solved 3 Javascript algorithms.
