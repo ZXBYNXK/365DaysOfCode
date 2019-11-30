@@ -68,3 +68,19 @@ Day 22: Created an html doc.
 
 Day 23: Nov 18, 2019.
 Day 23: Solved 3 Javascript algorithms.
+
+Day 24: Nov 19, 2019.
+Day 24: Take one of the algorithms from day 23 and apply readline to it to make it interactive.
+
+Day 25: Nov 20, 2019.
+Day 25: Made a program that creates files of your choice, using readline and filesytem APIs.
+
+Day 26: Nov 21, 2019.
+Day 26: Create a JavaScript program that counts all occurances of certain keywords from a .text file.
+Used: Objects, methods,  loops, filesytem module, and regex with the '.replace()' built-in JavaScript method.
+
+Day 27: Nov 22, 2019.
+Day 27: Create a JavaScript program that counts all occurances of certain keywords from a .text file.
+
+Day 28: Nov 23, 2019.
+Day 28: Created a module and imported it in another JavaScript file.
