@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Day 45</title>
+        <style>
+            *{
+                font-family: 'monospace'
+            }
+            body{
+                background-color: beige;
+            }
+.containers {
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: relative;
+    
+}
+#box1 {
+    width: 50px;
+    height: 50px;
+    background: red;
+    position: absolute;
+    border-style: groove;
+    
+}
+#box2 {
+    width: 50px;
+    height: 50px;
+    background: blue;
+    position: absolute;
+    border-style: groove;
+}
+#box3 {
+    width: 50px;
+    height: 50px;
+    background: orange;
+    position: absolute;
+    
+    border-style: groove;
+}
+#box4 {
+    width: 50px;
+    height: 50px;
+    background: green;
+    position: absolute;
+    border-style: groove;
+}
+#box5{
+    width: 50px;
+    height: 50px;
+    background: purple;
+    position: absolute;
+    border-style: groove;
+}
+        </style>
+    </head>
+    <body>
+    <header>
+        <h2>Day 45: Animation</h2>
+    </header>
+        <div id="containers">
+            <div id="box1">Box1</div>
+            <hr>
+            <br>
+            <br>
+            <div id="containers">
+            <div id="box2"> Box2</div>
+            <hr>
+            
+            <br>
+            <br>
+             <div id="containers">
+            <div id="box3"> Box 3</div>
+            <hr>
+            <br>
+            <br>
+             <div id="containers">
+            <div id="box4"> Box 4</div>
+            <hr>
+            <br>
+            <br>
+             <div id="containers">
+             
+            <div id="box5"> Box5</div>
+            <hr>
+            <br>
+            <br>
+            <hr>
+            
+        </div>
+        </div>
+        </div>
+        
+        </div>
+        <script>
+        
+            //calling the function in window.onload to make sure the HTML is loaded
+window.onload = function() {
+     var pos = 0; 
+    //our box element
+    var box1 = document.getElementById('box1')
+    var box2 = document.getElementById('box2')
+    var box3 = document.getElementById('box3')
+    var box4 = document.getElementById('box4')
+    var box5 = document.getElementById('box5')
+    var t = setInterval(move, 10);
+  
+    function move() {
+        if(pos >= 300) {
+            clearInterval(t);
+        }
+        else {
+            pos += 1;
+            box1.style.left = pos+'px';
+            box2.style.left = pos-25+'px';
+            box3.style.left = pos-50+'px';
+            box4.style.left = pos-35+'px';
+            box5.style.left = pos-10+'px';
+        }
+    }
+};
+        </script>
+        
+       <footer>
+        <span><a href="https://www.github.com/DariusRain">Darius Rain</a></span>
+    </footer>
+    </body>
+    
+</html>
