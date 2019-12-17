@@ -607,3 +607,14 @@ Dec 15 2019.
 Algorithm - Find matches in a collection (i.e: Array of objects Parameter1) with the key value pairs from parameter2's value (An object) then return all objects containing the matches.
 Dec 16 2019.
 
+
+
+
+
+
+
+
+
+# *Day 52:*
+Weather API version 2 (Make Icons show fr weather)
+Dec 17 2019
