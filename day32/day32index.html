@@ -1,0 +1,55 @@
+<html lang="en" style="font-family: Arial, Helvetica, sans-serif;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Day 32</title>
+    
+</head>
+<body style="background-color: seagreen;">
+    
+    <header>
+    <div style="background-color: white; border-style: groove; text-align: center;">
+       <h2><a href="https://www.github.com/DariusRain/365DaysOfCode">Day 32 of code</a>: Create a simple webserver that serves a html document.</h2>
+        <hr>
+        <h4 style="text-align: left;">Made by: <a href="https://www.github.com/DariusRain">Darius Rain</a></h4>
+    </div>
+    </header>
+
+        <br>
+        <br>
+       
+        <div style="background-color: navajowhite; border-style: dashed; border-color: seagreen; width: 75%; margin-left: 10%;">
+            
+              <div style="color: black; width: 100%; font-size:large; background-color: greenyellow; font-size: 20px; border-radius: 25%; text-align: center;">Code Used</div>  
+              
+              <hr>
+              <div style="border-style: double; border-radius: 7%;">
+              <pre style="overflow: auto; width: 75%;">
+                    const http = require('http'),
+                    fs = require('fs'),
+                    onRequest = function (request, response) {
+                        response.writeHead(200, { 'Content-Type': 'text/html' })
+                       
+                        fs.readFile('./index.html', null, function (error, data) {
+                
+                            if (error) {
+                                console.log('Error 404')
+                                response.writeHead(404);
+                                response.write('File not found!')
+                            } else {
+                                console.log('Request granted')
+                                response.write(data)
+                            }
+                            response.end();
+                        })
+                
+                    }
+                http.createServer(onRequest).listen(8000)
+                
+            </pre>
+        </div>
+        </div>
+   
+</body>
+</html>

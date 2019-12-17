@@ -1,0 +1,11 @@
+Q1. What was Albert Einstein's most famous equation?
+A1. E=MC^2
+
+Q2. What is an Object?
+A2. A datatype that can be assigned to a variable. It includes curly braces with keys and values seperated by colon and ended with comma.
+
+Q3. What is the difference between using Objects and Arrays?
+A3. Arrays have numbered indexes with assigned value and Objects have named properties with an assigned value.
+
+Q4. Write a function.
+A4. 'function anyName(){anyStatements;}' 
