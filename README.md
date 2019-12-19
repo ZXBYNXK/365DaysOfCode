@@ -618,3 +618,14 @@ Dec 16 2019.
 # *Day 52:*
 Weather API version 2 (Make Icons show fr weather)
 Dec 17 2019
+
+
+
+
+
+
+
+
+# *Day 53:*
+Solved two algorithms one converts english to pig latin the other adds dashes imbetween every word.
+Dec 18 2019
