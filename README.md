@@ -629,3 +629,14 @@ Dec 17 2019
 # *Day 53:*
 Solved two algorithms one converts english to pig latin the other adds dashes imbetween every word.
 Dec 18 2019
+
+
+
+
+
+
+
+
+# *Day 54:* 
+Review CSS flex box and create a sample html document that uses flexbox.
+Dec 19 2019
