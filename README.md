@@ -640,3 +640,14 @@ Dec 18 2019
 # *Day 54:* 
 Review CSS flex box and create a sample html document that uses flexbox.
 Dec 19 2019
+
+
+
+
+
+
+
+
+# *Day 55:*
+Find the missing letter algorithm.
+Dec 20 2019
