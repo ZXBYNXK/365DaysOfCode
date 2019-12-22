@@ -651,3 +651,15 @@ Dec 19 2019
 # *Day 55:*
 Find the missing letter algorithm.
 Dec 20 2019
+
+
+
+
+
+
+
+
+
+# *Day 56:*
+Replace charchaters (&, <, >, ', ") with their html entity value. Ex: (& = '&amp;')
+Dec 21 2019
