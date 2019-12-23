@@ -663,3 +663,15 @@ Dec 20 2019
 # *Day 56:*
 Replace charchaters (&, <, >, ', ") with their html entity value. Ex: (& = '&amp;')
 Dec 21 2019
+
+
+
+
+
+
+
+
+# *Day 57:*
+Cover some of the basics of NPM, Express, and nodemon
+Dec 22 2019
+
