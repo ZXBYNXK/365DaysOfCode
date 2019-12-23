@@ -1,0 +1,18 @@
+{
+  "name": "day57",
+  "version": "1.0.0",
+  "description": "Express & NPM basic configuration",
+  "main": "express_npm_config_day57.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Darius Rain",
+  "license": "MIT",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "mongoose": "^5.8.2",
+    "nodemon": "^2.0.2",
+    "validator": "^12.1.0"
+  }
+}
