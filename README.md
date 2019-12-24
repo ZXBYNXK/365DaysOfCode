@@ -675,3 +675,12 @@ Dec 21 2019
 Cover some of the basics of NPM, Express, and nodemon
 Dec 22 2019
 
+
+
+
+
+
+
+# *Day 58:*
+Solve the fibunachi sequence then sum up all odd numbers less than or equal to the inital function parameter set, Which can be any number.
+Dec 23 2019
