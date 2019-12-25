@@ -1,4 +1,4 @@
-#                                                         365DaysOfCode
+#                                                         365 Days Of Code
 
 
 # *Day 1:*
@@ -684,3 +684,13 @@ Dec 22 2019
 # *Day 58:*
 Solve the fibunachi sequence then sum up all odd numbers less than or equal to the inital function parameter set, Which can be any number.
 Dec 23 2019
+
+
+
+
+
+
+
+# *Day 59:* 
+Use express to send a html document as the response
+Dec 24 2019
