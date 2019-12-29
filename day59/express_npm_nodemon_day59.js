@@ -46,8 +46,8 @@ app.use('/route1', () => {
 })
 
 app.get('/route1', (req, res) => {
-   
     res.sendFile('./html_docs/index.html', {root: __dirname})
+    
 
 })
 

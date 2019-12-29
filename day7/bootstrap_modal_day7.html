@@ -1,0 +1,181 @@
+<html> 
+<head> 
+    <title>Day7</title>     <!-- Latest compiled and minified CSS -->     
+    
+    
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+ 
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/css/jquery-ui.min.css"> 
+ <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css"> 
+ <!-- Optional theme --> <!-- <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css"> --> <!-- Current doc CSS -->     <link rel="stylesheet" href="index.css"> 
+ <style>
+  .form {
+  background-color: teal;
+  border-radius: 2px; 
+  text-align: center; 
+  
+  }
+  
+  #heading {
+      border-radius: 12px;
+      background-color: white;
+      
+      }
+  
+  .form input {
+      border-radius: 2px;
+      
+  }
+  .greys {
+      border-radius: 3.5px;
+      background-color: darkred;
+      color: white;
+      
+      padding: 10px 10px;
+  }
+  body {font-family: Arial, Helvetica, sans-serif;}
+  
+  /* The Modal (background) */
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    background-color: transparent;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+  }
+  
+  /* The Close Button */
+  .close {
+    background-color: silver;
+    color: red;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    width: 30px;
+    text-align: center;
+    border-radius: 0px 0px 0px 10px;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  </style>
+   
+</head> 
+ <body style="background-color: silver;">     
+ <header>
+ <div class="container col-xs-12"> 
+ <div class="row">
+  <div class="col-xs-12 col-md-12 col-lg-12 col-xl-12" style="background-color: navy;"> 
+  
+  <div style="border-style: solid;
+  border-color: green; border: 15px; background-color: navy; color: orange;">
+  
+  <h3 style="background-color: white; font-family: sans-serif; font-size: 35px; text-align: center;" class="text-success"><kbd>Day#:~7 Name:~Darius Rain  Date:~11-2-2019</kbd></h3>
+  
+  
+  </div>
+  </div> 
+  </div> 
+      </div> 
+      </header>
+      
+      <div class="jumbotron" style="background-image: url('https://cdn.aarp.net/content/dam/aarp/work/career-change/2018/03/1140-fd-is-coding-boot-camp-for-you.imgcache.rev4c79daf5768ae52a73a46e372b5bc2b4.jpg'); background-repeat: no-repeat; opacity: 0.86; position: relative; top: 65px;">
+          <h3 class="text-success" style="font-size: 50px; opacity: 0.86; text-align: center; background-color: white; position:relative; bottom: 20px;">Day#:~6 365 Days Of Code: Use objects and create methods that apply to tbe object.</h3>
+          
+          <br>
+      <div class="container" style="font-family: serif; font-size: 20px; background-color: white; opacity: 0.89; position:relative; bottom: 30px;" >
+
+  
+        <p>Use a modal with bootstrap and use it to make a form after button click.</p>
+      
+      
+      
+     
+      
+     
+
+<h2>Modal Example</h2>
+
+
+<button id="myBtn">Open Modal</button>
+<h3 style="font-style: bold;  font-size: 30px;  border-radius: 2px; background-color: silver; opacity: 0.86;">Made By: <a href="https://github.com/DariusRain">Darius Rain</a></h3> 
+
+<div id="myModal" class="modal">
+
+  
+  <div class="modal-content">
+   <span class="close">&times;</span>
+    
+    <form action="#" class="form">
+    
+    <br>
+         <h3 style="font-decoration: italic;">Customer Request</h3>
+        
+       
+       <div class="greys">
+        Name:<br>
+        <input type="text" for="name" required></div><br>
+        
+        <div class="greys">
+        Email:<br>
+        <input type="email" for="email"></div><br>
+        <div class="greys">
+        PhoneNumber:
+        <input type="tel" for="tel" required></div><br>
+        
+        
+    </form>
+  
+</div>
+</div>
+
+<script>
+
+var modal = document.getElementById("myModal");
+
+
+var btn = document.getElementById("myBtn");
+
+
+var span = document.getElementsByClassName("close")[0];
+
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+
+       
+       
+       
+       
+       </body>
+       </html>
