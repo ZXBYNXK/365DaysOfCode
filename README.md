@@ -722,3 +722,15 @@ Organize api folder structure | Dec 26 2019
 
 # *Day 62:*
 Find least common multiple | Dec 27 2019
+
+
+
+
+
+
+
+
+
+
+# *Day 63:* 
+Use external routes for my rest api | Dec 28 2019
