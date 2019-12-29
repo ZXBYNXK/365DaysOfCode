@@ -1,0 +1,15 @@
+{
+  "name": "day58",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DExpress.js Basics 2\"",
+  "main": "express_basics2.js",
+  "scripts": {
+    "test": "''\u001b["
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
