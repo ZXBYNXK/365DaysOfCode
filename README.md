@@ -752,3 +752,16 @@ Use recursion to set a range of numbers in array | Dec 29 2019
 
 # [*Day 65:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day65)
 Use the spread operator to add contents from other arrays to make one new array | Dec 30 2019
+
+
+
+
+
+
+
+
+
+
+
+# [*Day 66:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day66)
+Use the for in loop to iterate through object keys | Dec 31 2019
