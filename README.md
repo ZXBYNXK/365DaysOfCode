@@ -1,5 +1,6 @@
-<h1 align="center" >365 Days of code</h1>
-<hr>
+<h1 align="center" color="blue">365 Days of code</h1>
+
+<br>
 
 # [*Day 1:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day1) 
 I will be making a madLib game for day 1.
