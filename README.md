@@ -134,7 +134,7 @@ Created a program that takes input and calculates s = d รท t (speed = distance ร
     
     
     
-
+# [*Day 10:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day10)
 Created a program that takes input and factorializes it, also showing the results.  
 | Nov 5 2019
 
@@ -147,7 +147,7 @@ Created a program that takes input and factorializes it, also showing the result
     
     
     
-
+# [*Day 11:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day11)
 Create a readline interface that predicts what number(1-10) your thinking of.
 | Nov 6 2019
 
