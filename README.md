@@ -1,7 +1,7 @@
 #                                                         365 Days Of Code
 
 
-# [*Day 1:*]](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day1) 
+# [*Day 1:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day1) 
 I will be making a madLib game for day 1.
 Oct 27 2019.
     
@@ -13,7 +13,7 @@ Oct 27 2019.
     
     
 
-# [*Day 2:*]](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day2) 
+# [*Day 2:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day2) 
 I will be creating a user interface with node just.
 0ct 28  2019.
     
@@ -25,7 +25,7 @@ I will be creating a user interface with node just.
     
     
 
-# [*Day 3:*]](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day3) 
+# [*Day 3:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day3) 
 I will be creating a login and register system with node JavaScript
 Oct 29 2019.
     
@@ -37,7 +37,7 @@ Oct 29 2019.
     
     
 
-# [*Day 4:*]](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day4) 
+# [*Day 4:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day4) 
 I created a page that can be changed by the user, by adding event listeners then functions that change the CSS stylesheet.
 Oct 30 2019.
     
@@ -739,7 +739,7 @@ Use external routes for my rest api | Dec 28 2019
 
 
 
-# [*Day 64:*]](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day64) 
+# [*Day 64:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day64) 
 Use recursion to set a range of numbers in array | Dec 29 2019
 
 
@@ -750,5 +750,5 @@ Use recursion to set a range of numbers in array | Dec 29 2019
 
 
 
-# [*Day 65:*]](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day65)
+# [*Day 65:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day65)
 Use the spread operator to add contents from other arrays to make one new array | Dec 30 2019
