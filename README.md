@@ -95,7 +95,7 @@ Day 7: | Nov 2 2019.
     
     
     
-# [*Day 9:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day9) 
+# [*Day 9:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day9) 
 Created a program that takes input and calculates s = d ÷ t (speed = distance ÷ time);
 | Nov 4 2019.
     
@@ -129,7 +129,7 @@ Create a readline interface that predicts what number(1-10) your thinking of.
     
     
 
-# [*Day 12:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day12) 
+# [*Day 12:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day12) 
 Created a program that uses an object constrouctor and concatenates the object to an empty array therefore making an array of objects.
 | Nov 7 2019.
     
@@ -141,7 +141,7 @@ Created a program that uses an object constrouctor and concatenates the object t
     
     
 
-# [*Day 13:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day13) 
+# [*Day 13:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day13) 
 Made a JavaScript program that makes a new array every time the | deck is shuffled. Then be able to shuffle the | deck and output when a click event happens on the specified place in the DOM.
 | Nov 8 2019.
     
@@ -153,7 +153,7 @@ Made a JavaScript program that makes a new array every time the | deck is shuffl
     
     
 
-# [*Day 14:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day14) 
+# [*Day 14:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day14) 
 I created a menu with options to add a store name location then owner. When that takes place a function creates an object (based on input) and concatenates it to an array.
 | Nov 9 2019.
     
@@ -165,7 +165,7 @@ I created a menu with options to add a store name location then owner. When that
     
     
 
-# [*Day 15:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day15) 
+# [*Day 15:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day15) 
 Created a program that allows infinite amounts of objects (based on user register) representing accounts that can be either added or deleted from array. Only the Admin menu can delete accounts. Created some menus with switch statements and function calls, to loop around without really using a loop.
 | Nov 10 2019.
     
@@ -177,7 +177,7 @@ Created a program that allows infinite amounts of objects (based on user registe
     
     
 
-# [*Day 16:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day16) 
+# [*Day 16:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day16) 
 Created a basic calculator.
 | Nov 11 2019.
     
@@ -189,7 +189,7 @@ Created a basic calculator.
     
     
 
-# [*Day 17:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day17) 
+# [*Day 17:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day17) 
 Create methods to change the object property values.
 | Nov 12 2019.
     
@@ -201,7 +201,7 @@ Create methods to change the object property values.
     
     
 
-# [*Day 18:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day18) 
+# [*Day 18:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day18) 
 Make a flash card learning program that uses 'readline' and a object of properties that have values of functions (thus making them methods). Using both of these techniques create a interface that asks questions relcieves answers and give answers back based on the given answer to a specific question.
 | Nov 13 2019.
     
@@ -213,7 +213,7 @@ Make a flash card learning program that uses 'readline' and a object of properti
     
     
 
-# [*Day 19:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day19) 
+# [*Day 19:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day19) 
 Created a little search engine type of program that searches any document containing a specific keyword. And each document is an object that contains multiple keys and values.
 | Nov 14 2019.
     
@@ -225,7 +225,7 @@ Created a little search engine type of program that searches any document contai
     
     
 
-# [*Day 20:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day20) 
+# [*Day 20:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day20) 
 Simulated a hotel enviroment.
 | Nov 15 2019.
     
@@ -249,7 +249,7 @@ Created a program that reverses input text. Used readline and an algorithm that 
     
     
 
-# [*Day 22:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day22) 
+# [*Day 22:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day22) 
 Created an html doc.
 | Nov 17 2019.
     
@@ -261,7 +261,7 @@ Created an html doc.
     
     
 
-# [*Day 23:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day23) 
+# [*Day 23:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day23) 
 Solved 3 Javascript algorithms.
 | Nov 18 2019.
     
@@ -273,7 +273,7 @@ Solved 3 Javascript algorithms.
     
     
 
-# [*Day 24:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day24) 
+# [*Day 24:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day24) 
 Take one of the algorithms from day 23 and apply readline to it to make it interactive.
 | Nov 19 2019.
     
@@ -285,7 +285,7 @@ Take one of the algorithms from day 23 and apply readline to it to make it inter
     
     
 
-# [*Day 25:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day25) 
+# [*Day 25:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day25) 
 Made a program that creates files of your choice, using readline and filesytem APIs.
 | Nov 20 2019.
     
@@ -297,7 +297,7 @@ Made a program that creates files of your choice, using readline and filesytem A
     
     
 
-# [*Day 26:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day26) 
+# [*Day 26:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day26) 
 Create a JavaScript program that counts all occurances of certain keywords from a .text file.
 Used: Objects, methods,  loops, filesytem module, and regex with the '.replace()' built-in JavaScript method.
 | Nov 21 2019.
@@ -310,7 +310,7 @@ Used: Objects, methods,  loops, filesytem module, and regex with the '.replace()
     
     
 
-# [*Day 27:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day27) 
+# [*Day 27:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day27) 
 Create a JavaScript program that counts all occurances of certain keywords from a .text file.
 | Nov 22 2019.
     
@@ -322,7 +322,7 @@ Create a JavaScript program that counts all occurances of certain keywords from 
     
     
 
-# [*Day 28:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day28) 
+# [*Day 28:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day28) 
 Created a program where you paste a directory path and then it lists all files in that directory from where the path leads
 | Nov 23 2019.
     
@@ -334,7 +334,7 @@ Created a program where you paste a directory path and then it lists all files i
     
     
 
-# [*Day 29:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day29) 
+# [*Day 29:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day29) 
 
 Created a module and imported it in another JavaScript file.
 | Nov 24 2019.
@@ -347,7 +347,7 @@ Created a module and imported it in another JavaScript file.
     
     
 
-# [*Day 30:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day30) 
+# [*Day 30:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day30) 
 Day 28 remake, instead of listing files in a directory(day28). Add a feature that can search content of a file for a specific keyword, and allow user to see content of any file.
 | Nov 25 2019.
     
@@ -359,7 +359,7 @@ Day 28 remake, instead of listing files in a directory(day28). Add a feature tha
     
     
 
-# [*Day 31:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day31) 
+# [*Day 31:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day31) 
 Use filter() map() and forEach() built-in JavaScript methods on an array of objects.
 | Nov 26 2019.
     
@@ -371,7 +371,7 @@ Use filter() map() and forEach() built-in JavaScript methods on an array of obje
     
     
 
-# [*Day 32:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day32) 
+# [*Day 32:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day32) 
 Create a server using  modules (http, fs).
 | Nov 27 2019.
     
@@ -383,7 +383,7 @@ Create a server using  modules (http, fs).
     
     
 
-# [*Day 33:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day33) 
+# [*Day 33:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day33) 
 Take the data from an txt file and organize what you want out of it into an array and or object.
 | Nov 28 2019.
     
@@ -395,7 +395,7 @@ Take the data from an txt file and organize what you want out of it into an arra
     
     
 
-# [*Day 34:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day34) 
+# [*Day 34:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day34) 
 Upgraded the program from yesterday works pretty well. Will add more features in the future.
 | Nov 29 2019.
     
@@ -407,7 +407,7 @@ Upgraded the program from yesterday works pretty well. Will add more features in
     
     
 
-# [*Day 35:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day35) 
+# [*Day 35:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day35) 
 Department report readline program version 1
 | Nov 30 2019.
     
@@ -419,7 +419,7 @@ Department report readline program version 1
     
     
 
-# [*Day 36:*]  (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day36) 
+# [*Day 36:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day36) 
 Department report readline program version 2 (Latest version)
 | Dec 1 2019.
     
@@ -431,7 +431,7 @@ Department report readline program version 2 (Latest version)
     
     
 
-# [*Day 37:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day37)  
+# [*Day 37:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day37)  
 Sum up numbers in multi dimensional array
 | Dec 2 2019.
     
@@ -443,7 +443,7 @@ Sum up numbers in multi dimensional array
     
     
 
-# [*Day 38:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day38) 
+# [*Day 38:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day38) 
 Bank system program in progress
 | Dec 3 2019.
     
@@ -728,7 +728,7 @@ Find least common multiple | Dec 27 2019
 
 
 
-# [*Day 63:*] (https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day63)
+# [*Day 63:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day63)
 Use external routes for my rest api | Dec 28 2019
 
 
