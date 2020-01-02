@@ -944,3 +944,19 @@ Use the spread operator to add contents from other arrays to make one new array 
 
 # [*Day 66:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day66)
 Use the for in loop to iterate through object keys | Dec 31 2019
+
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+# [*Day 67:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day67)
+Use JavaScript Classes and Constructors to construct new occurrances of objects | Jan 1 2019 ~*Happy New Year!*~
+
+
