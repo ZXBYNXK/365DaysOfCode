@@ -957,7 +957,7 @@ Use the for in loop to iterate through object keys | Dec 31 2019
 
 
 # [*Day 67:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day67)
-Use JavaScript Classes and Constructors to construct new occurrances of objects | Jan 1 2019 ~Happy New Year!~
+Use JavaScript Classes and Constructors to construct new occurrances of objects | Jan 1 2020 *Happy New Year!*
 
 
 
@@ -971,4 +971,4 @@ Use JavaScript Classes and Constructors to construct new occurrances of objects 
 
 
 # [*Day 68:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day68)
-Use regex to return the index of the string matched with the 'string.match(regex)' syntax. | Jan 2 2019
+Use regex to return the index of the string matched with the 'string.match(regex)' syntax. | Jan 2 2020
