@@ -972,3 +972,14 @@ Use JavaScript Classes and Constructors to construct new occurrances of objects 
 
 # [*Day 68:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day68)
 Use regex to return the index of the string matched with the 'string.match(regex)' syntax. | Jan 2 2020
+
+
+
+
+&nbsp;
+
+
+
+
+# [*Day 69:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day69)
+Connect API to mongoose database using npm package --> 'body-parser' as middleware, npm package --> 'mongoose', and use the 'mongoose.connect()' syntax to complete. | Jan 3 2020
