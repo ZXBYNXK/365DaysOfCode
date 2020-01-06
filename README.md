@@ -990,3 +990,10 @@ Connect API to mongoose database using npm package --> 'body-parser' as middlewa
 
 # [*Day 70:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day70)
 Refresher on changing elements in the DOM. | Jan 4 2020
+
+
+
+
+
+# [*Day 71:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day71)
+Flatten multi dimensional arrays | Jan 5 2020
