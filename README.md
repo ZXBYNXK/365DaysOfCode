@@ -984,7 +984,7 @@ Use regex to return the index of the string matched with the 'string.match(regex
 # [*Day 69:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day69)
 Connect API to mongoose database using npm package --> 'body-parser' as middleware, npm package --> 'mongoose', and use the 'mongoose.connect()' syntax to complete. | Jan 3 2020
 
-
+&nbsp
 
 
 
@@ -993,7 +993,17 @@ Refresher on changing elements in the DOM. | Jan 4 2020
 
 
 
-
+&nbsp
 
 # [*Day 71:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day71)
 Flatten multi dimensional arrays | Jan 5 2020
+
+
+
+&nbsp
+
+
+
+# [*Day 72:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day72)
+Create a simple tree data structure | Jan 6 2020
+
