@@ -1007,3 +1007,10 @@ Flatten multi dimensional arrays | Jan 5 2020
 # [*Day 72:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day72)
 Create a simple tree data structure | Jan 6 2020
 
+
+# [*Day 73:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day73)
+Create a simple tree data structure | Jan 7 2020
+
+
+
+
