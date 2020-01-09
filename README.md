@@ -1009,7 +1009,12 @@ Create a simple tree data structure | Jan 6 2020
 
 
 # [*Day 73:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day73)
-Create a simple tree data structure | Jan 7 2020
+Refresher on Object.keys() | Jan 7 2020
+
+
+# [*Day 74:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day74)
+Post request test for API| Jan 8 2020
+
 
 
 
