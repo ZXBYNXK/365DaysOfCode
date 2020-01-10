@@ -1007,15 +1007,19 @@ Flatten multi dimensional arrays | Jan 5 2020
 # [*Day 72:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day72)
 Create a simple tree data structure | Jan 6 2020
 
+&nbsp;
 
 # [*Day 73:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day73)
 Refresher on Object.keys() | Jan 7 2020
 
+&nbsp;
 
 # [*Day 74:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day74)
 Post request test for API| Jan 8 2020
 
+&nbsp;
 
-
+# [*Day 75:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day75)
+ALgorithm - Create a constructor function that creates a person, also having methods to edit values | Jan 9 2020
 
 
