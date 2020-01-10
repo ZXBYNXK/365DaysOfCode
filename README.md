@@ -1020,6 +1020,15 @@ Post request test for API| Jan 8 2020
 &nbsp;
 
 # [*Day 75:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day75)
-ALgorithm - Create a constructor function that creates a person, also having methods to edit values | Jan 9 2020
+Algorithm - Create a constructor function that creates a person, also having methods to edit values | Jan 9 2020
+
+
+
+&nbsp;
+
+
+
+# [*Day 76:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day76)
+Algorithm - Return a new array that transforms the elements' average altitude into their orbital periods (in seconds). | Jan 10 2020
 
 
