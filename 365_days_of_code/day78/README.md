@@ -9,11 +9,11 @@ and where you see 'ADD USERNAME HERE' & 'ADD PASSWORD HERE' you want to put in f
 
 
 
-CODE FOR THE POST
+# CODE FOR THE POST:
 
 
 
-
+<mark>
 router.post('/', async  (req, res) => {
     const post = new Post({
         title: req.body.title,
@@ -31,11 +31,9 @@ router.post('/', async  (req, res) => {
         })
     }
 })
-
-
-
-CODE FOR THE MONGOOSE MODEL
-
+</mark>
+# CODE FOR THE MONGOOSE MODEL:
+<mark>
 const mongoose = require('mongoose'),
 Post = mongoose.Schema({
     title: {
@@ -54,6 +52,7 @@ Post = mongoose.Schema({
 
 
 module.exports = mongoose.model('Posts', Post)
+</mark>
 
 
 
