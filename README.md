@@ -1042,3 +1042,12 @@ Algorithm - Return a new array that transforms the elements' average altitude in
 Algorithm - Find falsey values in a given array of objects, use a function with two paramaters one containing the array of objects to check, the other the property value to check for either a falsey or truthy value. | Jan 11 2020
 
 
+
+
+&nbsp;
+
+
+# [*Day 78:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day78)
+Test HTTP POST request with REST API using MongoDB Atlas and Express | Jan 12 2020
+
+
