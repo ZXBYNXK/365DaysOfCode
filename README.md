@@ -1032,3 +1032,13 @@ Algorithm - Create a constructor function that creates a person, also having met
 Algorithm - Return a new array that transforms the elements' average altitude into their orbital periods (in seconds). | Jan 10 2020
 
 
+
+&nbsp;
+
+
+
+
+# [*Day 77:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day77)
+Algorithm - Find falsey values in a given array of objects, use a function with two paramaters one containing the array of objects to check, the other the property value to check for either a falsey or truthy value. | Jan 11 2020
+
+
