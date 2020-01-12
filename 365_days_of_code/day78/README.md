@@ -13,7 +13,7 @@ and where you see 'ADD USERNAME HERE' & 'ADD PASSWORD HERE' you want to put in f
 
 
 
-<mark>
+<span style="background-color: silver>
 router.post('/', async  (req, res) => {
     const post = new Post({
         title: req.body.title,
@@ -31,9 +31,9 @@ router.post('/', async  (req, res) => {
         })
     }
 })
-</mark>
+</span>
 # CODE FOR THE MONGOOSE MODEL:
-<mark>
+<span style="background-color: silver">
 const mongoose = require('mongoose'),
 Post = mongoose.Schema({
     title: {
@@ -52,7 +52,7 @@ Post = mongoose.Schema({
 
 
 module.exports = mongoose.model('Posts', Post)
-</mark>
+</span>
 
 
 
