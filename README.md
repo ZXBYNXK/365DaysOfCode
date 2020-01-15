@@ -1061,7 +1061,7 @@ Test HTTP POST request with REST API using MongoDB Atlas and Express | Jan 12 20
 Refresher on fetching data with 'XMLHttpRequest'  and responding with json. | Jan 13 2020
 
 
-&nbsp
+&nbsp;
 
 
 # [*Day 80:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day80)
