@@ -1061,3 +1061,12 @@ Test HTTP POST request with REST API using MongoDB Atlas and Express | Jan 12 20
 Refresher on fetching data with 'XMLHttpRequest'  and responding with json. | Jan 13 2020
 
 
+&nbsp
+
+
+# [*Day 80:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day80)
+In a function with paramaters 'arr' and 'func'.
+Given the array 'arr', iterate through and remove each element starting from the first element (the 0 index) until 
+the function 'func' returns true when the iterated element is passed through it | Jan 14 2020
+
+
