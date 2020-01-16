@@ -1069,4 +1069,13 @@ In a function with paramaters 'arr' and 'func'.
 Given the array 'arr', iterate through and remove each element starting from the first element (the 0 index) until 
 the function 'func' returns true when the iterated element is passed through it | Jan 14 2020
 
+&nbsp;
 
+# [*Day 81:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day81)
+
+
+Use the 'Set()' syntax to to create a username validation. Use class constructor to construct a new username and a new user to add to the
+Array name:'User' and Set name:'userNames'. | Jan 15 2020
+
+
+&nbsp;
