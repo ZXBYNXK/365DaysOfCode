@@ -1079,3 +1079,11 @@ Array name:'User' and Set name:'userNames'. | Jan 15 2020
 
 
 &nbsp;
+
+# [*Day 82:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day82)
+
+
+Connect front end to back end by using two differnt ports and usinf fetc() and XmlHttpRequests | Jan 15 2020
+
+
+&nbsp;
