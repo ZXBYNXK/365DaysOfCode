@@ -1087,3 +1087,21 @@ Connect front end to back end by using two differnt ports and usinf fetch() and 
 
 
 &nbsp;
+
+
+
+
+
+
+# [*Day 83:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day83)
+
+
+ Using the 'filter()' higher order function with my own function that includes two paramaters. 
+     //Paramaters
+    //1. 'keyName' which is the key/property name of an object
+  //2.'theKeyValue' is the value of the keyName or value of an object.
+ //ex: function(keyName, theKeyValue)       | Jan 16 2020
+
+
+&nbsp;
+
