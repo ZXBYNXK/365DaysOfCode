@@ -1110,7 +1110,7 @@ Connect front end to back end by using two differnt ports and usinf fetch() and 
 # [*Day 84:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day84)
 
 Chaining ternary operators to come to different results based on condition
-(e.g.: condition ? ifTrue : condition ? : ifTrue : condition...)
+(e.g.: condition1 ? ifTrue1 : condition2 ? ifTrue2 : condition3...)
 
 | Jan 18 2020
 
