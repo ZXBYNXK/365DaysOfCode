@@ -1083,7 +1083,7 @@ Array name:'User' and Set name:'userNames'. | Jan 15 2020
 # [*Day 82:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day82)
 
 
-Connect front end to back end by using two differnt ports and usinf fetch() and XmlHttpRequests | Jan 15 2020
+Connect front end to back end by using two differnt ports and usinf fetch() and XmlHttpRequests | Jan 16 2020
 
 
 &nbsp;
@@ -1100,8 +1100,20 @@ Connect front end to back end by using two differnt ports and usinf fetch() and 
      //Paramaters
     //1. 'keyName' which is the key/property name of an object
   //2.'theKeyValue' is the value of the keyName or value of an object.
- //ex: function(keyName, theKeyValue)       | Jan 16 2020
+ //ex: function(keyName, theKeyValue)       | Jan 17 2020
 
 
 &nbsp;
 
+
+
+# [*Day 84:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day84)
+
+Chaining ternary operators to come to different results based on condition
+(e.g.: condition ? ifTrue : condition ? : ifTrue : condition...)
+
+| Jan 18 2020
+
+
+
+&nbsp;
