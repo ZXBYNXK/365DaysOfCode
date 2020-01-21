@@ -1127,3 +1127,12 @@ Create an API for a To-Do web application (v01)| Jan 19 2020
 
 
 &nbsp;
+
+
+# [*Day 86:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day86)
+Use https://jsonplaceholder.typicode.com/posts JSON data and create functions that filter through that data and sort it accordingly.
+In this case I copy and pasted in the file named 'users_file.json' then imported it in the 'day86.js' file
+
+
+
+&nbsp;
