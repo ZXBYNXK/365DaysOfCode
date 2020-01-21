@@ -1,4 +1,4 @@
-<h1 align="center" color="blue">365 Days of code</h1>
+<h1 align="center" style="color: blue">365 Days of code</h1>
 
 &nbsp;
 
