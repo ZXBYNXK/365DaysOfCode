@@ -1136,3 +1136,18 @@ In this case I copy and pasted in the file named 'users_file.json' then imported
 
 
 &nbsp;
+
+
+
+
+# [*Day 87:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day87)
+Use Regular Expression with the test() method to test arrays of string values, to find value equal to the Regular Expression. 
+NOTE: I converted the array to a string with toString so the test() method will work. I belive it does it by default but ill do it to be safe 
+
+
+&nbsp;
+
+
+
+
+
