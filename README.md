@@ -1150,7 +1150,7 @@ NOTE: I converted the array to a string with toString so the test() method will 
 # [*Day 88:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day88)
 
 Add the delete feature to my to-do app for the front end. 
-so the front end will be able to make a fetch() ajax request to my RESTful API.
+So the front end will be able to make a fetch() ajax request to my RESTful API and make a successful deletion to MongoDB.
 Will need MongoDB community server for this app to work if you are you git cloned this.
 
 &nbsp;
