@@ -1132,6 +1132,7 @@ Create an API for a To-Do web application (v01)| Jan 19 2020
 # [*Day 86:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day86)
 Use https://jsonplaceholder.typicode.com/posts JSON data and create functions that filter through that data and sort it accordingly.
 In this case I copy and pasted in the file named 'users_file.json' then imported it in the 'day86.js' file
+| Jan 20 2020
 
 
 
@@ -1144,7 +1145,7 @@ In this case I copy and pasted in the file named 'users_file.json' then imported
 Use Regular Expression with the test() method to test arrays of string values, to find value equal to the Regular Expression. 
 NOTE: I converted the array to a string with toString so the test() method will work. I belive it does it by default but ill do it to be safe 
 
-
+| Jan 21 2020
 &nbsp;
 
 # [*Day 88:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day88)
@@ -1152,14 +1153,14 @@ NOTE: I converted the array to a string with toString so the test() method will 
 Add the delete feature to my to-do app for the front end. 
 So the front end will be able to make a fetch() ajax request to my RESTful API and make a successful deletion to MongoDB.
 Will need MongoDB community server for this app to work if you are you git cloned this.
-
+| Jan 22 2020
 &nbsp;
 
 
 # [*Day 89:*](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day89)
 
 Getting comfortable with using Map().
-
+| Jan 23 2020
 &nbsp;
 
 
