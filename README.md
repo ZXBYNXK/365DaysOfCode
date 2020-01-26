@@ -20,6 +20,7 @@ Add the delete feature to my to-do app for the front end.
 So the front end will be able to make a fetch() ajax request to my RESTful API and make a successful deletion to MongoDB.
 Will need MongoDB community server for this app to work if you are you git cloned this.
 | Jan 22 2020
+
 &nbsp;
 
 # [_Day 87:_](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day87)
@@ -28,6 +29,7 @@ Use Regular Expression with the test() method to test arrays of string values, t
 NOTE: I converted the array to a string with toString so the test() method will work. I belive it does it by default but ill do it to be safe
 
 | Jan 21 2020
+
 &nbsp;
 
 # [_Day 86:_](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day86)
