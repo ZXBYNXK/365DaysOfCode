@@ -2,7 +2,9 @@
 
 # [_Day 93:_](https://github.com/DariusRain/nodejs-course/tree/4-7-handling-get-requests-33-10)
 
-Started Node.js REST API Course with [_Mash_](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s) | Jan 26 2020
+Started Node.js REST API Course with [_Mash_]
+Section 4.7: Using route paramaters with the find() method.
+(https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s) | Jan 26 2020
 
 &nbsp;
 
