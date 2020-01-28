@@ -1,6 +1,11 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 
+# [_Day 93:_](https://github.com/DariusRain/nodejs-course/tree/4-7-handling-get-requests-33-10)
+
+Started Node.js REST API Course with [_Mash_](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s) | Jan 26 2020
+
 &nbsp;
+
 # [_Day 92:_](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day92)
 
 Started Node.js REST API Course with [_Mash_](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s) | Jan 26 2020
