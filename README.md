@@ -1,7 +1,7 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 # [_Day 94:_](https://github.com/DariusRain/nodejs-course)
 
-Nodejs-RESTful API course with [_Mash_](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s
+Nodejs-RESTful API course with [_Mash_](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s)
 Section 4.7 - 4.10:| Jan 28 2020
 &nbsp;
 
