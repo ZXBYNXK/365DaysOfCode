@@ -8,7 +8,7 @@ Section 4.7 - 4.10:| Jan 28 2020
 &nbsp;
 
 # [_Day 93:_](https://github.com/DariusRain/nodejs-course/tree/4-7-handling-get-requests-33-10)
-Nodejs-RESTful API course with [_Mash_](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s
+Nodejs-RESTful API course with [_Mash_](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s)
 Section 4.7: Using route paramaters with the find() method.
 | Jan 27 2020
 
