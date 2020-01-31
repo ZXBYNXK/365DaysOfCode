@@ -1,20 +1,20 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
+# [_Day 96:_](https://github.com/DariusRain/nodejs-course)
+
+Final For section 4. (Upgrade Sections)| Jan 30 2020
 
 # [_Day 95:_](https://github.com/DariusRain/nodejs-course)
 
-Nodejs-RESTful API course with [_Mosh_](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s)
-Section 4.11:| Jan 29 2020
+Nodejs-RESTful API Course (Upgrade Sections) | Jan 29 2020
 
 # [_Day 94:_](https://github.com/DariusRain/nodejs-course)
 
-Nodejs-RESTful API course with [_Mosh_](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s)
-Section 4.7 - 4.10:| Jan 28 2020
+Nodejs-RESTful API course (Upgrade Sections)| Jan 28 2020
 
 &nbsp;
 
 # [_Day 93:_](https://github.com/DariusRain/nodejs-course/tree/4-7-handling-get-requests-33-10)
-Nodejs-RESTful API course with [_Mosh_](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=950s)
-Section 4.7: Using route paramaters with the find() method.
+Nodejs-RESTful API Course: Using route paramaters with the find() method.
 | Jan 27 2020
 
 &nbsp;
