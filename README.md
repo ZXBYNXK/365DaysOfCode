@@ -1,7 +1,7 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 
 # [_Day 98:_](https://github.com/DariusRain/nodejs-restful-apis)
-On Section 5.7 | Feb 1 2020
+Completed Sections 5.1 - 5.6 | Feb 1 2020
 
 &nbsp;
 
