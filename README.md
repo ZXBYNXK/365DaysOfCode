@@ -2,11 +2,11 @@
 
 # [_Day 100:_](https://github.com/DariusRain/nodejs-restful-apis)
 Async JavaScript 6.7 | Feb 4 2020
-&nbsp
+&nbsp;
 
 # [_Day 99:_](https://github.com/DariusRain/nodejs-restful-apis)
 Express 5.7 - 5.11 | Feb 3 2020
-&nbsp
+&nbsp;
 
 # [_Day 98:_](https://github.com/DariusRain/nodejs-restful-apis)
 
