@@ -1,22 +1,28 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 
+[_Day 100:_](https://github.com/DariusRain/nodejs-restful-apis)
+Async JavaScript 6.7 | Feb 4 2020
+&nbsp
+
 # [_Day 99:_](https://github.com/DariusRain/nodejs-restful-apis)
-Completed Sections 5.7 - 5.11 | Feb 2 2020
-&nbsp;
+Express 5.7 - 5.11 | Feb 3 2020
+&nbsp
 
 # [_Day 98:_](https://github.com/DariusRain/nodejs-restful-apis)
-Completed Sections 5.1 - 5.6 | Feb 1 2020
+
+Completed Sections 5.1 - 5.6 | Feb 2 2020
 
 &nbsp;
 
 # [_Day 97:_](https://github.com/DariusRain/nodejs-restful-apis)
-Started Section 5. (Upgrade Sections)| Jan 31 2020
+Express
+Started Section 5. (Upgrade Sections)| Jan 1 2020
 
 &nbsp;
 
 # [_Day 96:_](https://github.com/DariusRain/nodejs-restful-apis)
 Final For section 4. (Upgrade Sections)| Jan 30 2020
-
+Restful APIs
 &nbsp;
 
 # [_Day 95:_](https://github.com/DariusRain/nodejs-restful-apis)
