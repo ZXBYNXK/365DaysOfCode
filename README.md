@@ -1,4 +1,4 @@
-<h1 align="center" style="color: blue">365 Days of code</h1>
+<h1 align="center" style="color: blue">365 Days of code (Temporarily Discontinued)</h1>
 
 # [_Day 100:_](https://github.com/DariusRain/nodejs-restful-apis)
 Async JavaScript 6.7 | Feb 4 2020
