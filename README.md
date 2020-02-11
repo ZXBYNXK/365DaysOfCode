@@ -30,6 +30,7 @@ Started Section 5. (Upgrade Sections)| Jan 1 2020
 # [_Day 96:_](https://github.com/DariusRain/nodejs-restful-apis)
 Final For section 4. (Upgrade Sections)| Jan 30 2020
 Restful APIs
+
 &nbsp;
 
 # [_Day 95:_](https://github.com/DariusRain/nodejs-restful-apis)
@@ -76,6 +77,7 @@ Getting comfortable with using Map().
 | Jan 23 2020
 
 &nbsp;
+
 # [_Day 88:_](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day88)
 
 Add the delete feature to my to-do app for the front end.
@@ -345,8 +347,6 @@ Weather API version 1
 
 &nbsp;
   
-
-
 # [_Day 48:_](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day48)
 
 Algorithm - Take an array as a paramater and a string as the second, then eliminate the matches found in array.
@@ -354,8 +354,6 @@ Algorithm - Take an array as a paramater and a string as the second, then elimin
 
 &nbsp;
   
-
-
 # [_Day 47:_](https://github.com/DariusRain/365DaysOfCode/tree/master/365_days_of_code/day47)
 
 (2 Algoirthms) - Algorithm 1 ~ Sum a range of numbers ex 1,5 should be 45 | Algorithm 2 ~ Find the differences between 2 arrays then add them to a new array.
