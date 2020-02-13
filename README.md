@@ -1,4 +1,5 @@
-<h1 align="center" style="color: blue">365 Days of code</h1>
+<h1 align="center" style="color: blue">365 Days of code</h1> 
+
 # [Days 107 - 108](https://github.com/DariusRain/API-Enpoint-Validation-JWT)
 Quick review of json web tokens, plan on adding to fullstack app | Feb 11 - 12 2020
 
