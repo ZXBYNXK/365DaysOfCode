@@ -1,4 +1,18 @@
-<h1 align="center" style="color: blue">365 Days of code</h1> 
+<h1 align="center" style="color: blue">365 Days of code</h1>
+
+&nbsp;
+
+# [Days 116 - 119]("https://github.com/DariusRain/Grads")
+Started the Grads project. A fullstack application for companies looking for graduates.
+| Feb 20 - 23 2020
+
+&nbsp;
+
+# [Days 109 - 115]("https://github.com/DariusRain/Hackr")
+Started the Hackr project. A fullstack social media application for developers.
+| Feb 13 - 19 2020
+
+&nbsp;
 
 # [Days 107 - 108](https://github.com/DariusRain/API-Enpoint-Validation-JWT)
 Quick review of json web tokens, plan on adding to fullstack app | Feb 11 - 12 2020
