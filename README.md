@@ -22,7 +22,7 @@ Quick review of json web tokens, plan on adding to fullstack app | Feb 11 - 12 2
 
 &nbsp;
 
-# [Days 101 - 106](https://github.com/DariusRain/hackr) 
+# [_Days 101 - 106_](https://github.com/DariusRain/hackr) 
 
 Working on fullstack app (From what I learned)| Feb 5 - 10 2020
 
