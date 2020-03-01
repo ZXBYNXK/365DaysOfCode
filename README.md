@@ -5,7 +5,7 @@ Got the Grads repository into full effect. Put alot of effort into this one, <br
 plan on moving back to the hackr project once the features and documentation is<br>
 more presentable. | Feb 23 2020 - March 1 2020
 
-&nbsp
+&nbsp;
 
 # [_Days 116 - 119_](https://github.com/DariusRain/Grads)
 Started the Grads project. A fullstack application for companies looking for graduates.
