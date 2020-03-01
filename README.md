@@ -7,7 +7,6 @@ more presentable. | Feb 23 2020 - March 1 2020
 
 &nbsp
 
-
 # [_Days 116 - 119_](https://github.com/DariusRain/Grads)
 Started the Grads project. A fullstack application for companies looking for graduates.
 | Feb 20 - 23 2020
