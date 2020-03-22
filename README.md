@@ -1,5 +1,18 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 
+# [_Days 139 - 147 1_](https://github.com/DariusRain/agile-collab-project)
+Started another collaboration project but using the Agile methodologies,
+and we are in the process of building a application that is a mixture of
+my [_Graduates project_](https://github.com/DariusRain/Grads) and [_Hacker News project_](https://github.com/DariusRain/hackr). | Mar 12 2020 - March 21 2020
+
+&nbsp; 
+
+# [_Days 128 - 138_](https://github.com/DariusRain/menStack)
+Started my first collaboration project, <br>
+built a hotel booking application. | Mar 1 2020 - March 11 2020
+
+&nbsp;
+
 # [_Days 120 - 127_](https://github.com/DariusRain/Grads)
 Got the Grads repository into full effect. Put alot of effort into this one, <br>
 plan on moving back to the hackr project once the features and documentation is<br>
