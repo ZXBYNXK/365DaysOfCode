@@ -8,6 +8,8 @@ Started Reading React [Documentation](https://reactjs.org/docs/hello-world.html)
 
 Starting building my first react [app](https://github.com/DariusRain/flash-quiz-app)
 
+Mar 22 2020 - April 7 2020
+
 # [_Days 139 - 147_](https://github.com/DariusRain/agile-collab-project)
 Started another collaboration project but using the Agile methodologies,
 and we are in the process of building a application that is a mixture of
