@@ -2,10 +2,12 @@
 
 # [ Days 148 - 165 ](https://mysterious-dawn-79112.herokuapp.com/auth/login)
 Finished up my  Hacker News Oauth application,
-can access it [here](https://mysterious-dawn-79112.herokuapp.com/auth/login). 
+you can access it [here](https://mysterious-dawn-79112.herokuapp.com/auth/login) (Going to continue working on this). 
+&nbsp;
 Started Reading React [Documentation](https://reactjs.org/docs/hello-world.html)
+&nbsp;
 Starting building my first react [app](https://github.com/DariusRain/flash-quiz-app)
-Mar 22 2020 - April 7 2020
+| Mar 22 2020 - April 7 2020
 
 # [_Days 139 - 147_](https://github.com/DariusRain/agile-collab-project)
 Started another collaboration project but using the Agile methodologies,
