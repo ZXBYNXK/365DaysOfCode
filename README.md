@@ -1,12 +1,10 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
+
 # [ Days 148 - 165 ](https://mysterious-dawn-79112.herokuapp.com/auth/login)
 Finished up my  Hacker News Oauth application,
 can access it [here](https://mysterious-dawn-79112.herokuapp.com/auth/login). 
-
 Started Reading React [Documentation](https://reactjs.org/docs/hello-world.html)
-
 Starting building my first react [app](https://github.com/DariusRain/flash-quiz-app)
-
 Mar 22 2020 - April 7 2020
 
 # [_Days 139 - 147_](https://github.com/DariusRain/agile-collab-project)
