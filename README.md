@@ -1,5 +1,13 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 
+# [ Days 166 - 181 ](https://github.com/DariusRain/flash-quiz-app)
+Started Harvard CS50 course and completed the first 3 introduction forms, now on week 01 scratch.
+<br />
+Worked on my Brainhive project - A resource sharing center for devs. 
+<br />
+Almost done with my flash quiz app [app](https://github.com/DariusRain/flash-quiz-app)
+| Apr 8 2020 - April 23 2020
+
 # [ Days 148 - 165 ](https://mysterious-dawn-79112.herokuapp.com/auth/login)
 Finished up my  Hacker News Oauth application,
 you can access it [here](https://mysterious-dawn-79112.herokuapp.com/auth/login) (Going to continue working on this). 
