@@ -1,5 +1,18 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 
+# [ Days 182 - 194 ](https://github.com/DariusRain/flash-quiz-app)
+[Harvard CS50:](https://github.com/DariusRain/cs50_notes) Completed problem sets from weeks 1 to 3. Now on Week 4 Memory. 
+<br />
+
+[Brainhive:](https://github.com/DariusRain/brainhive) Restructured the data to instead be an object instead with array. 
+<br />
+
+[Flash Quiz App:](https://github.com/DariusRain/flash-quiz-app) Program takes answers to each question, now haft to score the quiz and
+save it to the central redux store.
+| Apr 24 2020 - May 06 2020
+
+&nbsp; 
+
 # [ Days 166 - 181 ](https://github.com/DariusRain/flash-quiz-app)
 Started Harvard CS50 course and completed the first 3 introduction forms, now on week 01 scratch.
 <br />
@@ -7,6 +20,8 @@ Worked on my Brainhive project - A resource sharing center for devs.
 <br />
 Almost done with my flash quiz app [app](https://github.com/DariusRain/flash-quiz-app)
 | Apr 8 2020 - April 23 2020
+
+&nbsp; 
 
 # [ Days 148 - 165 ](https://mysterious-dawn-79112.herokuapp.com/auth/login)
 Finished up my  Hacker News Oauth application,
@@ -16,6 +31,8 @@ Started Reading React [Documentation](https://reactjs.org/docs/hello-world.html)
 <br />
 Starting building my first react [app](https://github.com/DariusRain/flash-quiz-app)
 | Mar 22 2020 - April 7 2020
+
+&nbsp; 
 
 # [_Days 139 - 147_](https://github.com/DariusRain/agile-collab-project)
 Started another collaboration project but using the Agile methodologies,
