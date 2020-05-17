@@ -6,7 +6,7 @@
 [Harvard CS50:](https://github.com/DariusRain/cs50_notes) Completed problem set 4 filter an image and make it grayscale, sepia, reflect and blur in C.
 <br />
 
-[Brainhive:](https://github.com/DariusRain/brainhive)Reviewed and changed some class components to functional components, also
+[Brainhive:](https://github.com/DariusRain/brainhive) Reviewed and changed some class components to functional components, also
 fixed an image sizing issue in the jumbotron with.
 <br />
 
