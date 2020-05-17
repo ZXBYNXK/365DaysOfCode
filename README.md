@@ -6,13 +6,15 @@
 [Harvard CS50:](https://github.com/DariusRain/cs50_notes) Completed problem set 4 filter an image and make it grayscale, sepia, reflect and blur in C.
 <br />
 
-[Brainhive]](https://github.com/DariusRain/brainhive): Reviewed and changed some class components to functional components, also
+[Brainhive:](https://github.com/DariusRain/brainhive)Reviewed and changed some class components to functional components, also
 fixed an image sizing issue in the jumbotron with.
 <br />
 
 [Flash Quiz App:](https://github.com/DariusRain/flash-quiz-app) This application made a major breakthrough by being able to check
 answers after the quiz has been taken.  Next is actually scoring the quiz and storing it to redux.
 <br />
+
+&nbsp;
 
 # [ Days 182 - 194 ](https://github.com/DariusRain/flash-quiz-app)
 [Harvard CS50:](https://github.com/DariusRain/cs50_notes) Completed problem sets from weeks 1 to 3. Now on Week 4 Memory. 
