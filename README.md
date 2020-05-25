@@ -2,6 +2,24 @@
 
 &nbsp;
 
+# [ Days 207 - 217 ](https://github.com/DariusRain/CODE-X)
+[Harvard CS50:](https://github.com/DariusRain/cs50_notes) Completed problem set 4 (recover jpeg images), sort through the slack space of a camera's memory card for jpeg images in C. 
+<br />
+
+[Flash Quiz App:](https://github.com/DariusRain/flash-quiz-app) Application can now score percentages and display them to the user and store them to redux state, next is fixing up the UI a bit and displaying those percentages in an organized fashion.
+<br />
+
+[CODE-X:](https://github.com/DariusRain/CODE-X) This is a new project which will be built as a MERN stack, this application will 
+be sort of like a place where devs can save their coding recipes and share them with other devs.
+<br />
+
+[Brainhive:](https://github.com/DariusRain/brainhive) Have'nt made major changes this week, but plan on reviewing later on.
+<br />
+
+| May 15 2020 - May 25 2020
+&nbsp;
+
+
 # [ Days 195 - 206 ](https://cs50.harvard.edu/x/2020/psets/4/filter/less/)
 [Harvard CS50:](https://github.com/DariusRain/cs50_notes) Completed problem set 4 filter an image and make it grayscale, sepia, reflect and blur in C.
 <br />
@@ -13,6 +31,8 @@ fixed an image sizing issue in the jumbotron with.
 [Flash Quiz App:](https://github.com/DariusRain/flash-quiz-app) This application made a major breakthrough by being able to check
 answers after the quiz has been taken.  Next is actually scoring the quiz and storing it to redux.
 <br />
+
+| May 7 2020 - May 14 2020
 
 &nbsp;
 
