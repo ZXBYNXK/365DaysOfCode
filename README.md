@@ -2,6 +2,16 @@
 
 &nbsp;
 
+# [ Days 218 - 223 ](https://github.com/DariusRain/CODE-X)
+[Brainhive:](https://github.com/DariusRain/brainhive2) Implemented Redux and used the [redux ducks](https://github.com/erikras/ducks-modular-redux) approach to keep action types, creators and the reducers in one file.
+<br />
+
+[CODE-X:](https://github.com/DariusRain/CODE-X) Created a [Trello board](https://trello.com/b/eFlV0Ug9/code-x) for this application, to try to get in the habit of self Agile projects using Trello.  In the application I began implementing the back-end using npm express (server) & mongoose (connecter for MongoDB, NOT MongoDB).
+<br />
+
+| May 26 2020 - May 31 2020
+&nbsp;
+
 # [ Days 207 - 217 ](https://github.com/DariusRain/CODE-X)
 [Harvard CS50:](https://github.com/DariusRain/cs50_notes) Completed problem set 4 (recover jpeg images), sort through the slack space of a camera's memory card for jpeg images in C. 
 <br />
