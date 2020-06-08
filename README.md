@@ -8,7 +8,7 @@
 
 [CODE-X](https://github.com/DariusRain/CODE-X): Reviewed code & absorbing the material on express validator, jsonwebtoken and bcryptjs.
 
-[clothing-line-app](https://github.com/DariusRain/clothing-line-app): Initialized a MERN stack project will come back to later on this month.
+[e-commerce-app ](https://github.com/DariusRain/e-commerce-app): Initialized a MERN stack project will come back to later on this month.
 <br />
 
 | June 1 2020 - June 8 2020
