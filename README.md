@@ -2,6 +2,18 @@
 
 &nbsp;
 
+# [ Days 218 - 223 ](https://github.com/DariusRain/algorithms-practice)
+[algorithms-practice](https://github.com/DariusRain/algorithms-practice): Solved two problems, one was creating a program that decides a leapyear or not and two was implementing mergesort on an unsorted array of integers.
+<br />
+
+[CODE-X](https://github.com/DariusRain/CODE-X): Reviewed code & absorbing the material on express validator, jsonwebtoken and bcryptjs.
+
+[clothing-line-app](https://github.com/DariusRain/clothing-line-app): Initialized a MERN stack project will come back to later on this month.
+<br />
+
+| June 1 2020 - June 8 2020
+&nbsp;
+
 # [ Days 218 - 223 ](https://github.com/DariusRain/CODE-X)
 [Brainhive:](https://github.com/DariusRain/brainhive2) Implemented Redux and used the [redux ducks](https://github.com/erikras/ducks-modular-redux) approach to keep action types, creators and the reducers in one file.
 <br />
