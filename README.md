@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# [ Days 218 - 223 ](https://github.com/DariusRain/algorithms-practice)
+# [ Days 224 - 231 ](https://github.com/DariusRain/algorithms-practice)
 [algorithms-practice](https://github.com/DariusRain/algorithms-practice): Solved two problems, one was creating a program that decides a leapyear or not and two was implementing mergesort on an unsorted array of integers.
 <br />
 
