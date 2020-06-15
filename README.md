@@ -1,7 +1,7 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 
 &nbsp;
-# [ Days 232 - 239 ](https://github.com/DariusRain/algorithms-practice)
+# [ Days 232 - 239 ](#)
 [Redux](https://redux.js.org/api/api-reference):  Getting more familiar with Redux, creating reducers, actions and action creators. <br />
 [React-Redux](https://react-redux.js.org/api/connect): Using connect to connect my React application to Redux. <br />
 [React](https://reactjs.org/): Using the React library I am learning how to build a clean front-end and use the combination of <br /> the above to create a global state in an application. <br />
