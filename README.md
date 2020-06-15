@@ -2,12 +2,10 @@
 
 &nbsp;
 # [ Days 232 - 239 ](https://github.com/DariusRain/algorithms-practice)
-[Redux](https://redux.js.org/api/api-reference):  Getting more familiar with Redux, creating reducers, actions and action creators.
-[React-Redux](https://react-redux.js.org/api/connect): Using connect to connect my React application to Redux.
-[React](https://reactjs.org/): Using the React library I am learning how to build a clean front-end and use the combination of the above (Redux, React-Redux) to create a global state in an application.
-  Dived deep into taction creators, and using them to communicate with the reducer in order to modify its own state.  Also learned<br/>
-  that there can be multiple reducers that have there own state which breanches from the global state or store. <br />
-  <br />
+[Redux](https://redux.js.org/api/api-reference):  Getting more familiar with Redux, creating reducers, actions and action creators. <br />
+[React-Redux](https://react-redux.js.org/api/connect): Using connect to connect my React application to Redux. <br />
+[React](https://reactjs.org/): Using the React library I am learning how to build a clean front-end and use the combination of the above (Redux, React-Redux) to create a global state in an application. <br />
+Dived deep into action creators, and using them to communicate with the reducer in order which modifies its own state & there can be multiple reducers that have their own state which branches from the global state or store.
 | June 9 2020 - June 16 2020
 &nbsp;
 
