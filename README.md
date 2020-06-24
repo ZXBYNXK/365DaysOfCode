@@ -1,6 +1,23 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 
 &nbsp;
+# [ Days 239 - 246 ](https://github.com/DariusRain/hackr)
+[Back-End Practice](https://github.com/DariusRain/back-end-practice/tree/master/practice):  Created an enviroment for testing back-end code. <br />
+[Front-End Practice](https://github.com/DariusRain/front-end-practice): Created an enviroment for testing front-end code. <br />
+[Algorithm Practice](https://github.com/DariusRain/algorithm-practice): Created an enviroment for solving algorithms. <br />
+[Brainhive2](https://github.com/DariusRain/brainhive2): Started integrating a back-end into Brainhive2. <br />
+[Hackr](https://github.com/DariusRain/hackr) Started integrating the front-end to swap from pugjs to reactjs. <br />
+
+Overall: <br />
+- Good practice on using jwt, bcryptjs again in another [program](https://github.com/DariusRain/brainhive2) and the use of the request headers. <br />
+- Learning that [concurrently](https://www.npmjs.com/package/concurrently) is'nt needed just to run a mern stack application & that you typically see or want the client and server separate. <br />
+- Also config isnt needed either, where you can just ignore files from github during a push with git. Or just set the enviroment variables via shell on the platform <br /> 
+  the application is running on. <br />
+- Getting new with mongoosejs projection and how to use it to query and modify datat in MongoDB Atlas or Local Databases. <br />
+
+| June 17 2020 - June 23 2020
+&nbsp;
+
 # [ Days 232 - 239 ](#)
 [Redux](https://redux.js.org/api/api-reference):  Getting more familiar with Redux, creating reducers, actions and action creators. <br />
 [React-Redux](https://react-redux.js.org/api/connect): Using connect to connect my React application to Redux. <br />
