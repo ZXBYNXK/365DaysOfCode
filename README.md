@@ -13,7 +13,7 @@ Overall: <br />
 - Learning that [concurrently](https://www.npmjs.com/package/concurrently) is'nt needed just to run a mern stack application & that you typically see or want the client and server separate. <br />
 - Also [dotenv](https://www.npmjs.com/package/dotenv) isnt needed either, where you can just ignore files from github during a push with git. Or just set the enviroment variables via shell on the platform. <br /> 
   the application is running on. <br />
-- Getting new with mongoosejs projection and how to use it to query and modify datat in MongoDB Atlas or Local Databases. <br />
+- Getting new with mongoosejs [projection](https://mongoosejs.com/docs/api/query.html#query_Query-projection) and how to use it to query and modify datat in MongoDB Atlas or Local Databases. <br />
 
 | June 17 2020 - June 23 2020
 &nbsp;
