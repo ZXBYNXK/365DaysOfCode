@@ -1,6 +1,7 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 &nbsp;
 # [ Days 247 - 253 ](https://github.com/DariusRain/algorithm-practice)
+
 ### Worked on & completed the following algorithms:
 [Counting Valleys](https://github.com/DariusRain/algorithm-practice/blob/master/counting-valleys.js) <br />
 [Plus Minus](https://github.com/DariusRain/algorithm-practice/blob/master/plus-minus.js)  <br />
