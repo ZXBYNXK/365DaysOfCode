@@ -3,13 +3,13 @@
 
 # [ Days 247 - 253 ](https://github.com/DariusRain/algorithm-practice)
 
-Worked on & completed the following algorithms:
-[Counting Valleys](https://github.com/DariusRain/algorithm-practice/blob/master/counting-valleys.js) <br />
-[Plus Minus](https://github.com/DariusRain/algorithm-practice/blob/master/plus-minus.js)  <br />
-[Mini Max Sum](https://github.com/DariusRain/algorithm-practice/blob/master/mini-max-sum.js) <br />
-[Staircase](https://github.com/DariusRain/algorithm-practice/blob/master/staircase.js) <br />
-[Diagonal Difference](https://github.com/DariusRain/algorithm-practice/blob/master/diagonal-difference.js) <br />
-[Compare Triplets](https://github.com/DariusRain/algorithm-practice/blob/master/compare-triplets.js) <br />
+#### Worked on & completed the following algorithms: 
+- [Counting Valleys](https://github.com/DariusRain/algorithm-practice/blob/master/counting-valleys.js) <br />
+- [Plus Minus](https://github.com/DariusRain/algorithm-practice/blob/master/plus-minus.js)  <br />
+- [Mini Max Sum](https://github.com/DariusRain/algorithm-practice/blob/master/mini-max-sum.js) <br />
+- [Staircase](https://github.com/DariusRain/algorithm-practice/blob/master/staircase.js) <br />
+- [Diagonal Difference](https://github.com/DariusRain/algorithm-practice/blob/master/diagonal-difference.js) <br />
+- [Compare Triplets](https://github.com/DariusRain/algorithm-practice/blob/master/compare-triplets.js) <br />
 | June 24 2020 - June 30 2020
 &nbsp;
 
