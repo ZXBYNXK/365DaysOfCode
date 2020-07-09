@@ -1,24 +1,31 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
 &nbsp;
+# [ Days 254 - 262]https://github.com/DariusRain/Archives)
+[Brainhive2](https://github.com/DariusRain/brainhive2): Created profiles& users routes in the back-end, also created the models for both <br /> 
+users & profiles as well as a sub document for posts. <br />
+[Archives](https://github.com/DariusRain/brainhive2): Created a repo to hold all my code through out, well forever 😁.
+[Algorithms](https://github.com/DariusRain/Algorithms): Added a lot more algorithms and restructured to repo to have basic, intermediate & efficient algorithms.
+| July 1 2020 - July 9 2020
+&nbsp;
 
-# [ Days 247 - 253 ](https://github.com/DariusRain/algorithm-practice)
+# [ Days 247 - 253 ](https://github.com/DariusRain/Algorithms)
 
 #### Worked on & completed the following algorithms: 
-- [Counting Valleys](https://github.com/DariusRain/algorithm-practice/blob/master/counting-valleys.js) <br />
-- [Plus Minus](https://github.com/DariusRain/algorithm-practice/blob/master/plus-minus.js)  <br />
-- [Mini Max Sum](https://github.com/DariusRain/algorithm-practice/blob/master/mini-max-sum.js) <br />
-- [Staircase](https://github.com/DariusRain/algorithm-practice/blob/master/staircase.js) <br />
-- [Diagonal Difference](https://github.com/DariusRain/algorithm-practice/blob/master/diagonal-difference.js) <br />
-- [Compare Triplets](https://github.com/DariusRain/algorithm-practice/blob/master/compare-triplets.js) <br />
+- [Counting Valleys](https://github.com/DariusRain/Algorithms/blob/master/basic_algorithms/counting-valleys.js) <br />
+- [Plus Minus](https://github.com/DariusRain/algorithm-practice/blob/master/basic_algorithms/plus-minus.js)  <br />
+- [Mini Max Sum](https://github.com/DariusRain/algorithm-practice/blob/master/basic_algorithms/mini-max-sum.js) <br />
+- [Staircase](https://github.com/DariusRain/algorithm-practice/blob/master/basic_algorithms/staircase.js) <br />
+- [Diagonal Difference](https://github.com/DariusRain/algorithm-practice/blob/master/basic_algorithms/diagonal-difference.js) <br />
+- [Compare Triplets](https://github.com/DariusRain/algorithm-practice/blob/master/basic_algorithms/compare-triplets.js) <br />
 | June 24 2020 - June 30 2020
 &nbsp;
 
-# [ Days 239 - 246 ](https://github.com/DariusRain/hackr)
+# [ Days 239 - 246 ](https://github.com/DariusRain/Hackr)
 [Back-End Practice](https://github.com/DariusRain/back-end-practice/tree/master/practice):  Created an enviroment for testing back-end code. <br />
 [Front-End Practice](https://github.com/DariusRain/front-end-practice): Created an enviroment for testing front-end code. <br />
-[Algorithm Practice](https://github.com/DariusRain/algorithm-practice): Created an enviroment for solving algorithms. <br />
+[Algorithm Practice](https://github.com/DariusRain/Algorithms): Created an enviroment for solving algorithms. <br />
 [Brainhive2](https://github.com/DariusRain/brainhive2): Started integrating a back-end into Brainhive2. <br />
-[Hackr](https://github.com/DariusRain/hackr) Started integrating the front-end to swap from pugjs to reactjs. <br />
+[Hackr](https://github.com/DariusRain/Hackr) Started integrating the front-end to swap from pugjs to reactjs. <br />
 
 Overall: <br />
 - Good practice on using jwt, bcryptjs again in another [program](https://github.com/DariusRain/brainhive2) and the use of the request headers. <br />
@@ -55,7 +62,7 @@ Dived deep into action creators, and using them to communicate with the reducer 
 &nbsp;
 
 # [ Days 218 - 223 ](https://github.com/DariusRain/CODE-X)
-[Brainhive:](https://github.com/DariusRain/brainhive2) Implemented Redux and used the [redux ducks](https://github.com/erikras/ducks-modular-redux) approach to keep action types, creators and the reducers in one file.
+[Brainhive2](https://github.com/DariusRain/brainhive2) Implemented Redux and used the [redux ducks](https://github.com/erikras/ducks-modular-redux) approach to keep action types, creators and the reducers in one file.
 <br />
 
 [CODE-X:](https://github.com/DariusRain/CODE-X) Created a [Trello board](https://trello.com/b/eFlV0Ug9/code-x) for this application, to try to get in the habit of self Agile projects using Trello.  In the application I began implementing the back-end using npm express (server) & mongoose (connecter for MongoDB, NOT MongoDB).
