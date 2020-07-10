@@ -5,7 +5,7 @@
 
 [Brainhive2](https://github.com/DariusRain/brainhive2): Created profiles& users routes in the back-end, also created the models for both <br /> 
 users & profiles as well as a sub document for posts. <br />
-[Archives](https://github.com/DariusRain/brainhive2): Created a repo to hold all my code through out, well forever 😁.
+[Archives](https://github.com/DariusRain/brainhive2): Created a repo to hold all my code through out, well forever 😁. <br />
 [Algorithms](https://github.com/DariusRain/Algorithms): Added a lot more algorithms and restructured to repo to have basic, intermediate & efficient algorithms.
 | July 1 2020 - July 9 2020
 &nbsp;
