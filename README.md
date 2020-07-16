@@ -4,9 +4,9 @@
 
 # [ Days 263 - 269 ](https://github.com/DariusRain/Pluto)
 [Pluto](https://github.com/DariusRain/Pluto): Quick developments for this application almost done, will be a repo to reflect on for my other <br /> 
-future projects.
-[10DaysOfJavaScript](https://github.com/DariusRain/10DaysOfJavaScript): Completed the [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) challenge.
-[Brainhive2](https://github.com/DariusRain/Brainhive2): Created posts router for the Posts collection.
+future projects. <br />
+[10DaysOfJavaScript](https://github.com/DariusRain/10DaysOfJavaScript): Completed the [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) challenge. <br />
+[Brainhive2](https://github.com/DariusRain/Brainhive2): Created posts router for the Posts collection. <br />
 | July 10 2020 - July 16 2020
 
 &nbsp;
