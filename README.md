@@ -1,13 +1,24 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
+
+&nbsp;
+
+# [ Days 263 - 269 ](https://github.com/DariusRain/Pluto)
+[Pluto](https://github.com/DariusRain/Pluto): Quick developments for this application almost done, will be a repo to reflect on for my other <br /> 
+future projects.
+[10DaysOfJavaScript](https://github.com/DariusRain/10DaysOfJavaScript): Completed the [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) challenge.
+[Brainhive2](https://github.com/DariusRain/Brainhive2): Created posts router for the Posts collection.
+| July 10 2020 - July 16 2020
+
 &nbsp;
 
 # [ Days 254 - 262 ](https://github.com/DariusRain/Archives)
 
-[Brainhive2](https://github.com/DariusRain/brainhive2): Created profiles& users routes in the back-end, also created the models for both <br /> 
+[Brainhive2](https://github.com/DariusRain/Brainhive2): Created profiles & users routes in the back-end, also created the models for both <br /> 
 users & profiles as well as a sub document for posts. <br />
-[Archives](https://github.com/DariusRain/brainhive2): Created a repo to hold all my code through out, well forever 😁. <br />
+[Archives](https://github.com/DariusRain/Archives): Created a repo to hold all my code through out, well forever 😁. <br />
 [Algorithms](https://github.com/DariusRain/Algorithms): Added a lot more algorithms and restructured to repo to have basic, intermediate & efficient algorithms.
 | July 1 2020 - July 9 2020
+
 &nbsp;
 
 # [ Days 247 - 253 ](https://github.com/DariusRain/Algorithms)
@@ -20,6 +31,7 @@ users & profiles as well as a sub document for posts. <br />
 - [Diagonal Difference](https://github.com/DariusRain/algorithm-practice/blob/master/basic_algorithms/diagonal-difference.js) <br />
 - [Compare Triplets](https://github.com/DariusRain/algorithm-practice/blob/master/basic_algorithms/compare-triplets.js) <br />
 | June 24 2020 - June 30 2020
+
 &nbsp;
 
 # [ Days 239 - 246 ](https://github.com/DariusRain/Hackr)
@@ -37,6 +49,7 @@ Overall: <br />
 - Getting new with mongoosejs [projection](https://mongoosejs.com/docs/api/query.html#query_Query-projection) and how to use it to query and modify datat in MongoDB Atlas or Local Databases. <br />
 
 | June 17 2020 - June 23 2020
+
 &nbsp;
 
 # [ Days 232 - 239 ](#)
@@ -48,6 +61,7 @@ Overall: <br />
 Dived deep into action creators, and using them to communicate with the reducer in order which modifies its own state & there can be multiple reducers that have their own state which branches from the global state or store.
 <br />
 | June 9 2020 - June 16 2020
+
 &nbsp;
 
 
@@ -61,6 +75,7 @@ Dived deep into action creators, and using them to communicate with the reducer 
 <br />
 
 | June 1 2020 - June 8 2020
+
 &nbsp;
 
 # [ Days 218 - 223 ](https://github.com/DariusRain/CODE-X)
@@ -71,6 +86,7 @@ Dived deep into action creators, and using them to communicate with the reducer 
 <br />
 
 | May 26 2020 - May 31 2020
+
 &nbsp;
 
 # [ Days 207 - 217 ](https://github.com/DariusRain/CODE-X)
@@ -88,6 +104,7 @@ be sort of like a place where devs can save their coding recipes and share them 
 <br />
 
 | May 15 2020 - May 25 2020
+
 &nbsp;
 
 
