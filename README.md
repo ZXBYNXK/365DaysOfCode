@@ -2,6 +2,23 @@
 
 &nbsp;
 
+# [ Days 270 - 280 ](https://github.com/DariusRain/Pluto)
+[Pluto](https://github.com/DariusRain/Pluto/issues/11): Project should be finished, just ran into a bug with my auth reducer I'm going <br/>
+to ask for help relatively soon. <br />
+[_O](https://github.com/DariusRain/_O): This is a soon to be NPM package that will help developers build a MEN stack back-end at ease. <br />
+The purpose of _O is to be able to have a function that takes an object as an argument, and this object requires 4 properties <br />
+which are server, api, database & models. Check out the README.md by clicking the link for more information. 
+[Brainhive2](https://github.com/DariusRain/Brainhive2): Use user ID from decoded token thanks to middleware and find a profile document <br /> 
+with a user feild that has a matching value to the ID.  After that use the document ID of the recently obtained profile document to then <br />
+create a new post using that id as the value of the profile field of newly created post document.
+Steps:
+- Find profile with user ID and extract the id from it
+- Attach the id to the postData.
+- Create Post
+- Respond with post 
+| July 17 2020 - July 27 2020
+
+&nbsp;
 # [ Days 263 - 269 ](https://github.com/DariusRain/Pluto)
 [Pluto](https://github.com/DariusRain/Pluto): Quick developments for this application almost done, will be a repo to reflect on for my other <br /> 
 future projects. <br />
