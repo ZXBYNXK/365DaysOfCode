@@ -2,7 +2,16 @@
 
 &nbsp;
 
-# [ Days 270 - 280 ](https://github.com/DariusRain/Pluto)
+# [ Days 281 - 297 ](https://github.com/DariusRain/Brainhive2)
+[Pluto](https://github.com/DariusRain/Pluto/issues/11): Project is ready for deployment, having trouble getting the app deployed. <br />
+[Brainhive2](https://github.com/DariusRain/Brainhive2): Created a route for when a user likes or unlikes a post. Also a route for comments and deleting comments. <br />
+Also learned about non-locking vs locking code for when you use mongoose to make changes to the database.  
+
+| July 28 2020 - August 13 2020
+
+&nbsp;
+
+# [ Days 270 - 280 ](https://github.com/DariusRain/_O)
 [Pluto](https://github.com/DariusRain/Pluto/issues/11): Project should be finished, just ran into a bug with my auth reducer I'm going <br/>
 to ask for help relatively soon. <br />
 [_O](https://github.com/DariusRain/_O): This is a soon to be NPM package that will help developers build a MEN stack back-end at ease. <br />
