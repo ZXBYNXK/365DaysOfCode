@@ -7,7 +7,7 @@
 [Web-Scraper](https://github.com/DariusRain/Web-Scraper): Successfully completed 3 missions with this webscraper using bs4, requests & Selenium pip Libraries. <br />
 [Yahtzee](https://github.com/DariusRain/Java-Yahtzee): Created a command line Yahtzee game in Java. <br />
 [Dungeons & Dragons](https://github.com/DariusRain/Dungeons-Dragons): Created another command line game but with D&D. <br />
-
+| August 14 2020 - October 08 2020
 &nbsp;
 
 # [ Days 281 - 297 ](https://github.com/DariusRain/Brainhive2)
