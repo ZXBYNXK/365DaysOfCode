@@ -2,6 +2,14 @@
 
 &nbsp;
 
+# [ Days 298 - 353 ](https://github.com/DariusRain/30DaysOfJava)
+[30DaysOfJava](https://github.com/DariusRain/30DaysOfJava): Completed days 00 - 22 of 30 Days of Java. <br />
+[Web-Scraper](https://github.com/DariusRain/Web-Scraper): Successfully completed 3 missions with this webscraper using bs4, requests & Selenium pip Libraries. <br />
+[Yahtzee](https://github.com/DariusRain/Java-Yahtzee): Created a command line Yahtzee game in Java. <br />
+[Dungeons & Dragons](https://github.com/DariusRain/Dungeons-Dragons): Created another command line game but with D&D. <br />
+
+&nbsp;
+
 # [ Days 281 - 297 ](https://github.com/DariusRain/Brainhive2)
 [Pluto](https://github.com/DariusRain/Pluto/issues/11): Project is ready for deployment, having trouble getting the app deployed. <br />
 [Brainhive2](https://github.com/DariusRain/Brainhive2): Created a route for when a user likes or unlikes a post. Also a route for comments and deleting comments. <br />
