@@ -1,5 +1,9 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
-
+# [ Days 299 - 365 ](https://github.com/DariusRain/30DaysOfJava)
+[Java-Web](https://github.com/DariusRain/30DaysOfJava): Going through the basics of Microservices with SpringBoot. <br />
+[_O](https://github.com/DariusRain/Web-Scraper): Restarting a relevent and REVOLUTIONARY project <br />
+[BlackJaCK](https://github.com/DariusRain/Java-Yahtzee): Created a command line Yahtzee game in Java. <br />
+| August 14 2020 - November 42020
 &nbsp;
 
 # [ Days 298 - 353 ](https://github.com/DariusRain/30DaysOfJava)
