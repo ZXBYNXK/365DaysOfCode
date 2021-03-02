@@ -1,6 +1,7 @@
 <h1 align="center" style="color: blue">365 Days of code</h1>
+
 # [ Days 354 - 365 ](https://github.com/DariusRain/30DaysOfJava)
-[Harvard CS50:](https://github.com/DariusRain/cs50_notes) Completed 
+[Harvard CS50:](https://github.com/DariusRain/cs50_notes) Completed <br /> 
 [Java-Web](https://github.com/DariusRain/30DaysOfJava): Going through the basics of Microservices with SpringBoot. <br />
 [_O](https://github.com/DariusRain/Web-Scraper): Restarting a relevent and REVOLUTIONARY project <br />
 [BlackJack](https://github.com/DariusRain/Java-Yahtzee): Created a command line Yahtzee game in Java. <br />
@@ -12,8 +13,7 @@
 [Web-Scraper](https://github.com/DariusRain/Web-Scraper): Successfully completed 3 missions with this webscraper using bs4, requests & Selenium pip Libraries. <br />
 [Yahtzee](https://github.com/DariusRain/Java-Yahtzee): Created a command line Yahtzee game in Java. <br />
 [Dungeons & Dragons](https://github.com/DariusRain/Dungeons-Dragons): Created another command line game but with D&D. <br />
-| August 14 2020 - October 08 2020
-&nbsp;
+| August 14 2020 - October 08 2020&nbsp;
 
 # [ Days 281 - 297 ](https://github.com/DariusRain/Brainhive2)
 [Pluto](https://github.com/DariusRain/Pluto/issues/11): Project is ready for deployment, having trouble getting the app deployed. <br />
